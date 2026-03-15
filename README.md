@@ -1,4 +1,4 @@
-## How to play Minecraft
+# How to play Minecraft
 
 ## You need:
 - MultiMC
@@ -18,7 +18,7 @@
 ## (Git)
 - All files gotta be less than 100mb otherwise they gon get rejected
 
-### Working with the repo
+# Working with the repo
 
 ### Windows
 
