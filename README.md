@@ -14,6 +14,7 @@
 
 ## Tools:
 - On a particular world select export instance to export it
+- If you select 'Folders -> View Instance folder' you can see the .minecraft files for that instance
 
 ## (Git)
 - All files gotta be less than 100mb otherwise they gon get rejected
