@@ -1,0 +1,46 @@
+[15:23:10] [Client thread/INFO]: Setting user: chancellor77
+[15:23:12] [Client thread/INFO]: LWJGL Version: 2.9.4
+[15:23:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
+[15:23:15] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[15:23:16] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[15:23:16] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[15:23:16] [Thread-8/INFO]: OpenAL initialized.
+[15:23:16] [Sound Library Loader/INFO]: Sound engine started
+[15:23:17] [Client thread/INFO]: Created: 16x16 textures-atlas
+[15:23:18] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
+[15:23:19] [Client thread/INFO]: SoundSystem shutting down...
+[15:23:19] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[15:23:19] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[15:23:19] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[15:23:19] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[15:23:19] [Thread-10/INFO]: OpenAL initialized.
+[15:23:20] [Sound Library Loader/INFO]: Sound engine started
+[15:23:20] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[15:23:24] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[15:23:24] [Server thread/INFO]: Generating keypair
+[15:23:25] [Server thread/INFO]: Preparing start region for level 0
+[15:23:26] [Server thread/INFO]: Preparing spawn area: 54%
+[15:23:27] [Server thread/INFO]: Changing view distance to 8, from 10
+[15:23:27] [Server thread/INFO]: chancellor77[local:E:724a1c3f] logged in with entity id 295 at (317.0398666150392, 78.36787222837388, 426.6455476157397)
+[15:23:27] [Server thread/INFO]: chancellor77 joined the game
+[15:23:28] [Server thread/INFO]: Saving and pausing game...
+[15:23:28] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[15:23:29] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[15:23:29] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[15:23:30] [Server thread/INFO]: Saving and pausing game...
+[15:23:30] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[15:23:30] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[15:23:30] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[15:23:54] [Server thread/INFO]: Saving and pausing game...
+[15:23:54] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[15:23:54] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[15:23:54] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[15:23:55] [Server thread/INFO]: Stopping server
+[15:23:55] [Server thread/INFO]: Saving players
+[15:23:55] [Server thread/INFO]: Saving worlds
+[15:23:55] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[15:23:55] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[15:23:55] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[15:24:01] [Client thread/INFO]: Stopping!
+[15:24:01] [Client thread/INFO]: SoundSystem shutting down...
+[15:24:01] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
