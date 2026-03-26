@@ -1,17 +1,78 @@
-[01:26:03] [Server thread/INFO]: Saving and pausing game...
-[01:26:03] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[01:26:03] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[01:26:03] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[01:34:29] [Server thread/INFO]: Saving and pausing game...
-[01:34:29] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[01:34:29] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[01:34:29] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[01:34:30] [Server thread/INFO]: Stopping server
-[01:34:30] [Server thread/INFO]: Saving players
-[01:34:30] [Server thread/INFO]: Saving worlds
-[01:34:30] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[01:34:30] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[01:34:30] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[01:34:31] [Client thread/INFO]: Stopping!
-[01:34:31] [Client thread/INFO]: SoundSystem shutting down...
-[01:34:31] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[17:52:36] [Client thread/INFO]: Setting user: chancellor77
+[17:52:39] [Client thread/INFO]: LWJGL Version: 2.9.4
+[17:52:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
+[17:52:44] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:52:44] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[17:52:44] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:52:45] [Thread-8/INFO]: OpenAL initialized.
+[17:52:45] [Sound Library Loader/INFO]: Sound engine started
+[17:52:46] [Client thread/INFO]: Created: 16x16 textures-atlas
+[17:52:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
+[17:52:49] [Client thread/INFO]: SoundSystem shutting down...
+[17:52:49] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[17:52:49] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:52:49] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[17:52:49] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:52:49] [Thread-10/INFO]: OpenAL initialized.
+[17:52:50] [Sound Library Loader/INFO]: Sound engine started
+[17:52:50] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[17:52:53] [Realms Notification Availability checker #1/ERROR]: Could not parse RealmsError: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12
+[17:52:53] [Realms Notification Availability checker #1/ERROR]: The error was: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache Server at mcoapi.minecraft.net Port 443</address>
+</body></html>
+
+[17:52:53] [Realms Notification Availability checker #1/ERROR]: Realms http code: 404 -  error code: 0 -  message: null - raw body: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache Server at mcoapi.minecraft.net Port 443</address>
+</body></html>
+
+[17:53:01] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[17:53:01] [Server thread/INFO]: Generating keypair
+[17:53:02] [Server thread/INFO]: Preparing start region for level 0
+[17:53:03] [Server thread/INFO]: Preparing spawn area: 60%
+[17:53:03] [Server thread/INFO]: Changing view distance to 8, from 10
+[17:53:04] [Server thread/INFO]: chancellor77[local:E:525241fe] logged in with entity id 301 at (324.4848110501288, 79.31306258479118, 416.4741053913188)
+[17:53:04] [Server thread/INFO]: chancellor77 joined the game
+[17:53:05] [Server thread/INFO]: Saving and pausing game...
+[17:53:05] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[17:53:05] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[17:53:05] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[17:53:08] [Server thread/INFO]: Saving and pausing game...
+[17:53:08] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[17:53:08] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[17:53:08] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[17:53:09] [Server thread/INFO]: Saving and pausing game...
+[17:53:09] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[17:53:09] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[17:53:09] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[17:54:51] [Server thread/INFO]: Saving and pausing game...
+[17:54:51] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[17:54:51] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[17:54:51] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[17:55:39] [Server thread/INFO]: Saving and pausing game...
+[17:55:39] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[17:55:39] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[17:55:39] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[18:26:48] [Client thread/INFO]: Stopping!
+[18:26:48] [Client thread/INFO]: SoundSystem shutting down...
+[18:26:48] [Server thread/INFO]: Stopping server
+[18:26:48] [Server thread/INFO]: Saving players
+[18:26:48] [Server thread/INFO]: Saving worlds
+[18:26:48] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[18:26:48] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[18:26:48] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[18:26:48] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[18:26:49] [Client Shutdown Thread/INFO]: Stopping server
+[18:26:49] [Client Shutdown Thread/INFO]: Saving players
+[18:26:49] [Client Shutdown Thread/INFO]: Saving worlds
