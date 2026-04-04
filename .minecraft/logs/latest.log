@@ -1,249 +1,23 @@
-[21:23:42] [Client thread/INFO]: Setting user: chancellor77
-[21:23:45] [Client thread/INFO]: LWJGL Version: 2.9.4
-[21:23:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
-[21:23:50] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[21:23:50] [Thread-8/INFO]: Initializing LWJGL OpenAL
-[21:23:50] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[21:23:51] [Thread-8/INFO]: OpenAL initialized.
-[21:23:51] [Sound Library Loader/INFO]: Sound engine started
-[21:23:52] [Client thread/INFO]: Created: 16x16 textures-atlas
-[21:23:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
-[21:23:54] [Client thread/INFO]: SoundSystem shutting down...
-[21:23:54] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[21:23:54] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[21:23:54] [Thread-10/INFO]: Initializing LWJGL OpenAL
-[21:23:54] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[21:23:55] [Thread-10/INFO]: OpenAL initialized.
-[21:23:55] [Sound Library Loader/INFO]: Sound engine started
-[21:23:55] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[21:24:00] [Server thread/INFO]: Starting integrated minecraft server version 1.9
-[21:24:00] [Server thread/INFO]: Generating keypair
-[21:24:01] [Server thread/INFO]: Preparing start region for level 0
-[21:24:02] [Server thread/INFO]: Preparing spawn area: 73%
-[21:24:02] [Server thread/INFO]: Changing view distance to 8, from 10
-[21:24:03] [Server thread/INFO]: chancellor77[local:E:99d1591d] logged in with entity id 298 at (323.3043011251705, 107.79241334374997, 338.2813044464906)
-[21:24:03] [Server thread/INFO]: chancellor77 joined the game
-[21:24:04] [Server thread/INFO]: Saving and pausing game...
-[21:24:04] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:24:04] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:24:04] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:25:16] [Client thread/INFO]: [CHAT] First position set to (337.0, 103.0, 323.0).
-[21:25:19] [Client thread/INFO]: [CHAT] Second position set to (337.0, 112.0, 342.0) (200).
-[21:25:24] [Client thread/INFO]: [CHAT] Operation completed (189 blocks affected).
-[21:31:44] [Client thread/INFO]: [CHAT] First position set to (335.0, 111.0, 342.0) (6).
-[21:31:45] [Client thread/INFO]: [CHAT] Second position set to (333.0, 103.0, 342.0) (27).
-[21:31:56] [Client thread/INFO]: [CHAT] Operation completed (27 blocks affected).
-[21:31:56] [Client thread/INFO]: [CHAT] There were unused arguments: wood
-[21:32:00] [Client thread/INFO]: [CHAT] Can't figure out what block 'acacia planks' refers to
-[21:32:06] [Client thread/INFO]: [CHAT] Operation completed (0 blocks affected).
-[21:32:06] [Client thread/INFO]: [CHAT] There were unused arguments: planks
-[21:32:08] [Server thread/INFO]: Saving and pausing game...
-[21:32:08] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:32:08] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:32:08] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:33:04] [Client thread/INFO]: [CHAT] Can't figure out what block 'minecraft:acacia planks' refers to
-[21:33:05] [Server thread/INFO]: Saving and pausing game...
-[21:33:05] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:33:06] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:33:06] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:33:26] [Server thread/INFO]: Saving and pausing game...
-[21:33:26] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:33:26] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:33:26] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:33:46] [Client thread/INFO]: [CHAT] Can't figure out what block 'acaciaplanks' refers to
-[21:33:47] [Server thread/INFO]: Saving and pausing game...
-[21:33:47] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:33:47] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:33:47] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:33:59] [Client thread/INFO]: [CHAT] Operation completed (27 blocks affected).
-[21:34:04] [Client thread/INFO]: [CHAT] First position set to (336.0, 103.0, 341.0) (8).
-[21:34:09] [Client thread/INFO]: [CHAT] Second position set to (333.0, 103.0, 338.0) (16).
-[21:34:11] [Client thread/INFO]: [CHAT] Operation completed (11 blocks affected).
-[21:34:19] [Client thread/INFO]: [CHAT] First position set to (336.0, 103.0, 337.0) (8).
-[21:34:20] [Client thread/INFO]: [CHAT] Second position set to (333.0, 103.0, 331.0) (28).
-[21:34:24] [Client thread/INFO]: [CHAT] Can't figure out what block 'purpur' refers to
-[21:34:37] [Client thread/INFO]: [CHAT] Can't figure out what block 'purpur:0' refers to
-[21:34:39] [Server thread/INFO]: Saving and pausing game...
-[21:34:39] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:34:39] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:34:39] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:34:54] [Client thread/INFO]: [CHAT] Can't figure out what block 'purpur black' refers to
-[21:34:57] [Client thread/INFO]: [CHAT] Can't figure out what block 'purpur block' refers to
-[21:35:01] [Server thread/INFO]: Saving and pausing game...
-[21:35:01] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:35:01] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:35:01] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:35:03] [Server thread/INFO]: Saving and pausing game...
-[21:35:03] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:35:03] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:35:03] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:35:06] [Server thread/INFO]: Saving and pausing game...
-[21:35:06] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:35:06] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:35:06] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:35:36] [Client thread/INFO]: [CHAT] Can't figure out what block 'purpur:0' refers to
-[21:35:38] [Server thread/INFO]: Saving and pausing game...
-[21:35:38] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:35:38] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:35:38] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:35:53] [Client thread/INFO]: [CHAT] Can't figure out what block 'purpur block:0' refers to
-[21:35:54] [Server thread/INFO]: Saving and pausing game...
-[21:35:54] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:35:55] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:35:55] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:36:34] [Client thread/INFO]: [CHAT] Operation completed (20 blocks affected).
-[21:37:44] [Client thread/INFO]: [CHAT] Second position set to (334.0, 112.0, 333.0) (150).
-[21:37:47] [Client thread/INFO]: [CHAT] First position set to (335.0, 112.0, 341.0) (18).
-[21:38:03] [Client thread/INFO]: [CHAT] Operation completed (18 blocks affected).
-[21:38:06] [Client thread/INFO]: [CHAT] Operation completed (18 blocks affected).
-[21:38:21] [Server thread/INFO]: Saving and pausing game...
-[21:38:21] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:38:22] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:38:22] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:38:27] [Server thread/INFO]: Saving and pausing game...
-[21:38:27] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:38:27] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:38:27] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:38:34] [Server thread/INFO]: Saving and pausing game...
-[21:38:34] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:38:34] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:38:34] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:38:40] [Server thread/INFO]: Saving and pausing game...
-[21:38:40] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:38:40] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:38:40] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:38:51] [Server thread/INFO]: Saving and pausing game...
-[21:38:51] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:38:51] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:38:51] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:38:59] [Server thread/INFO]: Saving and pausing game...
-[21:38:59] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:38:59] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:38:59] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:39:04] [Server thread/INFO]: Saving and pausing game...
-[21:39:04] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:39:04] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:39:04] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:39:09] [Server thread/INFO]: Saving and pausing game...
-[21:39:09] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:39:09] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:39:09] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:39:17] [Server thread/INFO]: Saving and pausing game...
-[21:39:17] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:39:17] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:39:17] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:39:23] [Server thread/INFO]: Saving and pausing game...
-[21:39:23] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:39:23] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:39:23] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:39:29] [Server thread/INFO]: Saving and pausing game...
-[21:39:29] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:39:29] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:39:29] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:39:34] [Server thread/INFO]: Saving and pausing game...
-[21:39:34] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:39:35] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:39:35] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:40:12] [Client thread/INFO]: [CHAT] First position set to (339.0, 114.0, 353.0) (378).
-[21:40:17] [Client thread/INFO]: [CHAT] Second position set to (339.0, 102.0, 315.0) (507).
-[21:40:22] [Client thread/INFO]: [CHAT] Operation completed (505 blocks affected).
-[21:40:35] [Client thread/INFO]: [CHAT] First position set to (337.0, 114.0, 353.0) (1521).
-[21:40:39] [Client thread/INFO]: [CHAT] Second position set to (339.0, 114.0, 315.0) (117).
-[21:40:41] [Client thread/INFO]: [CHAT] Operation completed (74 blocks affected).
-[21:40:44] [Client thread/INFO]: [CHAT] First position set to (337.0, 114.0, 315.0) (3).
-[21:40:47] [Client thread/INFO]: [CHAT] Second position set to (339.0, 102.0, 315.0) (39).
-[21:40:48] [Client thread/INFO]: [CHAT] Operation completed (22 blocks affected).
-[21:40:56] [Client thread/INFO]: [CHAT] First position set to (339.0, 114.0, 353.0) (507).
-[21:40:58] [Client thread/INFO]: [CHAT] Second position set to (336.0, 102.0, 353.0) (52).
-[21:40:59] [Client thread/INFO]: [CHAT] Operation completed (24 blocks affected).
-[21:41:29] [Client thread/INFO]: [CHAT] First position set to (337.0, 113.0, 316.0) (912).
-[21:41:36] [Client thread/INFO]: [CHAT] Second position set to (337.0, 102.0, 322.0) (84).
-[21:41:43] [Client thread/INFO]: [CHAT] Operation completed (82 blocks affected).
-[21:42:13] [Client thread/INFO]: [CHAT] First position set to (337.0, 101.0, 351.0) (60).
-[21:42:13] [Client thread/INFO]: [CHAT] First position set to (337.0, 102.0, 352.0) (31).
-[21:42:15] [Client thread/INFO]: [CHAT] Second position set to (337.0, 112.0, 343.0) (110).
-[21:42:17] [Client thread/INFO]: [CHAT] Operation completed (108 blocks affected).
-[21:42:48] [Client thread/INFO]: [CHAT] First position set to (334.0, 103.0, 322.0) (880).
-[21:42:50] [Client thread/INFO]: [CHAT] Second position set to (334.0, 113.0, 321.0) (22).
-[21:42:52] [Client thread/INFO]: [CHAT] Operation completed (19 blocks affected).
-[21:43:00] [Client thread/INFO]: [CHAT] First position set to (334.0, 103.0, 345.0) (275).
-[21:43:02] [Client thread/INFO]: [CHAT] Second position set to (334.0, 113.0, 343.0) (33).
-[21:43:04] [Client thread/INFO]: [CHAT] Operation completed (29 blocks affected).
-[21:44:32] [Client thread/INFO]: [CHAT] First position set to (336.0, 103.0, 343.0) (33).
-[21:44:40] [Client thread/INFO]: [CHAT] Second position set to (334.0, 112.0, 343.0) (30).
-[21:44:42] [Client thread/INFO]: [CHAT] Operation completed (26 blocks affected).
-[21:45:13] [Client thread/INFO]: [CHAT] First position set to (332.0, 112.0, 321.0) (69).
-[21:45:22] [Client thread/INFO]: [CHAT] Second position set to (332.0, 103.0, 345.0) (250).
-[21:45:33] [Client thread/INFO]: [CHAT] Operation completed (250 blocks affected).
-[21:45:36] [Client thread/INFO]: [CHAT] Operation completed (250 blocks affected).
-[21:45:43] [Client thread/INFO]: [CHAT] Operation completed (250 blocks affected).
-[21:45:46] [Client thread/INFO]: [CHAT] Operation completed (250 blocks affected).
-[21:45:49] [Server thread/INFO]: Saving and pausing game...
-[21:45:49] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:45:49] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:45:49] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:45:50] [Server thread/INFO]: Stopping server
-[21:45:50] [Server thread/INFO]: Saving players
-[21:45:50] [Server thread/INFO]: Saving worlds
-[21:45:50] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:45:50] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:45:50] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:45:52] [Server thread/INFO]: Starting integrated minecraft server version 1.9
-[21:45:52] [Server thread/INFO]: Generating keypair
-[21:45:52] [Server thread/INFO]: Preparing start region for level 0
-[21:45:53] [Server thread/INFO]: Changing view distance to 8, from 10
-[21:45:53] [Server thread/INFO]: chancellor77[local:E:7446a3c4] logged in with entity id 318036 at (319.5676929255085, 105.95876049570177, 337.98266236962456)
-[21:45:53] [Server thread/INFO]: chancellor77 joined the game
-[21:45:55] [Server thread/INFO]: Saving and pausing game...
-[21:45:55] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:45:55] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:45:55] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:46:00] [Client thread/INFO]: [CHAT] First position set to (332.0, 103.0, 345.0).
-[21:46:05] [Client thread/INFO]: [CHAT] Second position set to (332.0, 112.0, 321.0) (250).
-[21:46:11] [Client thread/INFO]: [CHAT] 250 block(s) have been replaced.
-[21:46:14] [Server thread/INFO]: Saving and pausing game...
-[21:46:14] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:46:14] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:46:14] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:46:24] [Server thread/INFO]: Saving and pausing game...
-[21:46:24] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:46:25] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:46:25] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:46:25] [Server thread/INFO]: Stopping server
-[21:46:25] [Server thread/INFO]: Saving players
-[21:46:25] [Server thread/INFO]: Saving worlds
-[21:46:25] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:46:25] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:46:25] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:46:27] [Server thread/INFO]: Starting integrated minecraft server version 1.9
-[21:46:27] [Server thread/INFO]: Generating keypair
-[21:46:27] [Server thread/INFO]: Preparing start region for level 0
-[21:46:28] [Server thread/INFO]: Changing view distance to 8, from 10
-[21:46:28] [Server thread/INFO]: chancellor77[local:E:6ffdbbca] logged in with entity id 326886 at (318.58768710796255, 109.64586290528827, 324.5600573077127)
-[21:46:28] [Server thread/INFO]: chancellor77 joined the game
-[21:46:43] [Client thread/INFO]: [CHAT] First position set to (332.0, 112.0, 345.0).
-[21:46:48] [Client thread/INFO]: [CHAT] Second position set to (332.0, 103.0, 321.0) (250).
-[21:46:53] [Client thread/INFO]: [CHAT] Operation completed (250 blocks affected).
-[21:47:37] [Client thread/INFO]: [CHAT] Second position set to (334.0, 103.0, 344.0) (60).
-[21:47:40] [Client thread/INFO]: [CHAT] Operation completed (36 blocks affected).
-[21:49:12] [Server thread/INFO]: Saving and pausing game...
-[21:49:12] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:49:12] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:49:12] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:50:02] [Server thread/INFO]: Saving and pausing game...
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:50:03] [Server thread/INFO]: Stopping server
-[21:50:03] [Server thread/INFO]: Saving players
-[21:50:03] [Server thread/INFO]: Saving worlds
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[21:50:04] [Client thread/INFO]: Stopping!
-[21:50:04] [Client thread/INFO]: SoundSystem shutting down...
-[21:50:04] [Realms Notification Availability checker #1/ERROR]: Could not parse RealmsError: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12
-[21:50:04] [Realms Notification Availability checker #1/ERROR]: The error was: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+[21:50:41] [Client thread/INFO]: Setting user: chancellor77
+[21:50:44] [Client thread/INFO]: LWJGL Version: 2.9.4
+[21:50:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
+[21:50:51] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[21:50:51] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[21:50:51] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[21:50:52] [Thread-8/INFO]: OpenAL initialized.
+[21:50:52] [Sound Library Loader/INFO]: Sound engine started
+[21:50:54] [Client thread/INFO]: Created: 16x16 textures-atlas
+[21:50:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
+[21:50:57] [Client thread/INFO]: SoundSystem shutting down...
+[21:50:57] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[21:50:57] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[21:50:57] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[21:50:57] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[21:50:57] [Thread-10/INFO]: OpenAL initialized.
+[21:50:58] [Sound Library Loader/INFO]: Sound engine started
+[21:50:59] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[21:51:02] [Realms Notification Availability checker #1/ERROR]: Could not parse RealmsError: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12
+[21:51:02] [Realms Notification Availability checker #1/ERROR]: The error was: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
 <html><head>
 <title>404 Not Found</title>
 </head><body>
@@ -253,7 +27,7 @@
 <address>Apache Server at mcoapi.minecraft.net Port 443</address>
 </body></html>
 
-[21:50:04] [Realms Notification Availability checker #1/ERROR]: Realms http code: 404 -  error code: 0 -  message: null - raw body: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+[21:51:02] [Realms Notification Availability checker #1/ERROR]: Realms http code: 404 -  error code: 0 -  message: null - raw body: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
 <html><head>
 <title>404 Not Found</title>
 </head><body>
@@ -263,4 +37,52 @@
 <address>Apache Server at mcoapi.minecraft.net Port 443</address>
 </body></html>
 
-[21:50:04] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[21:52:29] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[21:52:29] [Server thread/INFO]: Generating keypair
+[21:52:29] [Server thread/INFO]: Preparing start region for level 0
+[21:52:30] [Server thread/INFO]: Preparing spawn area: 57%
+[21:52:31] [Server thread/INFO]: Changing view distance to 8, from 10
+[21:52:32] [Server thread/INFO]: chancellor77[local:E:5bd2ebdf] logged in with entity id 299 at (317.1109733469318, 107.30810454510163, 332.6788951438662)
+[21:52:32] [Server thread/INFO]: chancellor77 joined the game
+[21:52:32] [Server thread/INFO]: Saving and pausing game...
+[21:52:32] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[21:52:32] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[21:52:32] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[21:52:33] [Server thread/INFO]: Saving and pausing game...
+[21:52:33] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[21:52:33] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[21:52:33] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[21:53:05] [Server thread/INFO]: Saving and pausing game...
+[21:53:05] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[21:53:06] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[21:53:06] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[21:53:06] [Server thread/INFO]: Stopping server
+[21:53:06] [Server thread/INFO]: Saving players
+[21:53:06] [Server thread/INFO]: Saving worlds
+[21:53:06] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[21:53:06] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[21:53:06] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[21:53:07] [Client thread/INFO]: Stopping!
+[21:53:07] [Client thread/INFO]: SoundSystem shutting down...
+[21:53:07] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[21:53:07] [Realms Notification Availability checker #1/ERROR]: Could not parse RealmsError: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12
+[21:53:07] [Realms Notification Availability checker #1/ERROR]: The error was: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache Server at mcoapi.minecraft.net Port 443</address>
+</body></html>
+
+[21:53:07] [Realms Notification Availability checker #1/ERROR]: Realms http code: 404 -  error code: 0 -  message: null - raw body: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache Server at mcoapi.minecraft.net Port 443</address>
+</body></html>
+
