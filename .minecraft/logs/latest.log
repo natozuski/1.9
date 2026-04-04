@@ -1,9 +1,133 @@
-[08:25:26] [Server thread/INFO]: Stopping server
-[08:25:26] [Server thread/INFO]: Saving players
-[08:25:26] [Server thread/INFO]: Saving worlds
-[08:25:26] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[08:25:26] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[08:25:26] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[08:25:28] [Client thread/INFO]: Stopping!
-[08:25:28] [Client thread/INFO]: SoundSystem shutting down...
-[08:25:28] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[21:04:13] [Client thread/INFO]: Setting user: chancellor77
+[21:04:17] [Client thread/INFO]: LWJGL Version: 2.9.4
+[21:04:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
+[21:04:21] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[21:04:21] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[21:04:21] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[21:04:21] [Thread-8/INFO]: OpenAL initialized.
+[21:04:21] [Sound Library Loader/INFO]: Sound engine started
+[21:04:23] [Client thread/INFO]: Created: 16x16 textures-atlas
+[21:04:24] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
+[21:04:25] [Client thread/INFO]: SoundSystem shutting down...
+[21:04:26] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[21:04:26] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[21:04:26] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[21:04:26] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[21:04:26] [Thread-10/INFO]: OpenAL initialized.
+[21:04:26] [Sound Library Loader/INFO]: Sound engine started
+[21:04:27] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[21:05:06] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[21:05:06] [Server thread/INFO]: Generating keypair
+[21:05:07] [Server thread/INFO]: Preparing start region for level 0
+[21:05:08] [Server thread/INFO]: Preparing spawn area: 59%
+[21:05:09] [Server thread/INFO]: Changing view distance to 8, from 10
+[21:05:09] [Server thread/INFO]: chancellor77[local:E:dd686f39] logged in with entity id 291 at (380.1324234771814, 68.21683971227496, 406.04018367624394)
+[21:05:09] [Server thread/INFO]: chancellor77 joined the game
+[21:05:10] [Server thread/INFO]: Saving and pausing game...
+[21:05:10] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[21:05:11] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[21:05:11] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[21:06:41] [Client thread/INFO]: [CHAT] First position set to (308.0, 114.0, 325.0).
+[21:07:10] [Client thread/INFO]: [CHAT] Second position set to (332.0, 102.0, 337.0) (4225).
+[21:07:27] [Client thread/INFO]: [CHAT] 4225 block(s) were copied.
+[21:07:34] [Client thread/INFO]: [CHAT] The clipboard has been pasted at (332.0, 102.0, 346.0)
+[21:08:08] [Client thread/INFO]: [CHAT] First position set to (333.0, 102.0, 350.0) (28).
+[21:08:33] [Client thread/INFO]: [CHAT] Second position set to (338.0, 110.0, 351.0) (108).
+[21:08:43] [Client thread/INFO]: [CHAT] 108 block(s) were copied.
+[21:08:48] [Client thread/INFO]: [CHAT] The clipboard has been pasted at (338.0, 102.0, 351.0)
+[21:09:05] [Client thread/INFO]: [CHAT] First position set to (308.0, 114.0, 333.0) (2945).
+[21:09:11] [Client thread/INFO]: [CHAT] Second position set to (332.0, 102.0, 345.0) (4225).
+[21:09:18] [Client thread/INFO]: [CHAT] 4225 block(s) were copied.
+[21:09:24] [Client thread/INFO]: [CHAT] The clipboard has been pasted at (332.0, 102.0, 354.0)
+[21:10:58] [Server thread/INFO]: Saving and pausing game...
+[21:10:58] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[21:10:58] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[21:10:58] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[21:11:21] [Client thread/INFO]: [CHAT] First position set to (332.0, 114.0, 315.0) (403).
+[21:11:26] [Client thread/INFO]: [CHAT] Second position set to (332.0, 102.0, 353.0) (507).
+[21:11:28] [Client thread/INFO]: [CHAT] Operation completed (299 blocks affected).
+[21:11:51] [Client thread/INFO]: [CHAT] First position set to (338.0, 102.0, 350.0) (28).
+[21:11:52] [Client thread/INFO]: [CHAT] Second position set to (343.0, 110.0, 351.0) (108).
+[21:11:59] [Client thread/INFO]: [CHAT] 108 block(s) were copied.
+[21:12:15] [Client thread/INFO]: [CHAT] The clipboard has been pasted at (370.0, 102.0, 352.0)
+[21:13:35] [Client thread/INFO]: [CHAT] First position set to (331.0, 113.0, 316.0) (1872).
+[21:13:42] [Client thread/INFO]: [CHAT] Second position set to (331.0, 102.0, 352.0) (444).
+[21:13:48] [Client thread/INFO]: [CHAT] Operation completed (252 blocks affected).
+[21:14:27] [Client thread/INFO]: [CHAT] First position set to (332.0, 112.0, 324.0) (638).
+[21:14:30] [Client thread/INFO]: [CHAT] Second position set to (334.0, 112.0, 343.0) (60).
+[21:14:34] [Client thread/INFO]: [CHAT] Operation completed (36 blocks affected).
+[21:14:34] [Server thread/INFO]: Saving and pausing game...
+[21:14:34] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[21:14:35] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[21:14:35] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[21:15:25] [Client thread/INFO]: [CHAT] Second position set to (336.0, 112.0, 335.0) (60).
+[21:15:31] [Client thread/INFO]: [CHAT] First position set to (335.0, 112.0, 341.0) (14).
+[21:15:34] [Client thread/INFO]: [CHAT] Second position set to (335.0, 112.0, 324.0) (18).
+[21:15:37] [Client thread/INFO]: [CHAT] Operation completed (18 blocks affected).
+[21:15:54] [Client thread/INFO]: [CHAT] First position set to (308.0, 114.0, 341.0) (1512).
+[21:15:57] [Client thread/INFO]: [CHAT] Second position set to (308.0, 102.0, 324.0) (234).
+[21:16:02] [Client thread/INFO]: [CHAT] Operation completed (208 blocks affected).
+[21:16:02] [Server thread/INFO]: Saving and pausing game...
+[21:16:02] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[21:16:02] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[21:16:02] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[21:16:19] [Client thread/INFO]: [CHAT] Second position set to (308.0, 114.0, 341.0) (1).
+[21:16:23] [Client thread/INFO]: [CHAT] First position set to (331.0, 114.0, 324.0) (432).
+[21:16:25] [Client thread/INFO]: [CHAT] Operation completed (368 blocks affected).
+[21:17:01] [Client thread/INFO]: [CHAT] First position set to (336.0, 114.0, 315.0) (783).
+[21:17:06] [Client thread/INFO]: [CHAT] Second position set to (331.0, 114.0, 353.0) (234).
+[21:17:08] [Client thread/INFO]: [CHAT] Operation completed (189 blocks affected).
+[21:17:21] [Client thread/INFO]: [CHAT] First position set to (309.0, 113.0, 341.0) (598).
+[21:17:25] [Client thread/INFO]: [CHAT] Second position set to (330.0, 113.0, 324.0) (396).
+[21:17:29] [Client thread/INFO]: [CHAT] Operation completed (352 blocks affected).
+[21:17:31] [Server thread/INFO]: Saving and pausing game...
+[21:17:31] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[21:17:32] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[21:17:32] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[21:17:53] [Client thread/INFO]: [CHAT] First position set to (336.0, 114.0, 353.0) (420).
+[21:17:56] [Client thread/INFO]: [CHAT] Second position set to (331.0, 102.0, 353.0) (78).
+[21:17:58] [Client thread/INFO]: [CHAT] Operation completed (60 blocks affected).
+[21:18:05] [Client thread/INFO]: [CHAT] First position set to (331.0, 113.0, 315.0) (468).
+[21:18:22] [Client thread/INFO]: [CHAT] Second position set to (337.0, 102.0, 315.0) (84).
+[21:18:23] [Client thread/INFO]: [CHAT] Operation completed (71 blocks affected).
+[21:18:45] [Server thread/INFO]: Saving and pausing game...
+[21:18:45] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[21:18:46] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[21:18:46] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[21:18:49] [Client thread/INFO]: [CHAT] First position set to (330.0, 113.0, 352.0) (3648).
+[21:18:55] [Client thread/INFO]: [CHAT] Second position set to (336.0, 113.0, 316.0) (259).
+[21:18:59] [Client thread/INFO]: [CHAT] Operation completed (221 blocks affected).
+[21:19:07] [Client thread/INFO]: [CHAT] First position set to (331.0, 113.0, 352.0) (222).
+[21:19:13] [Client thread/INFO]: [CHAT] Second position set to (336.0, 102.0, 352.0) (72).
+[21:19:15] [Client thread/INFO]: [CHAT] Operation completed (65 blocks affected).
+[21:19:23] [Client thread/INFO]: [CHAT] First position set to (336.0, 113.0, 316.0) (444).
+[21:19:24] [Client thread/INFO]: [CHAT] Second position set to (330.0, 102.0, 316.0) (84).
+[21:19:27] [Client thread/INFO]: [CHAT] Operation completed (66 blocks affected).
+[21:19:31] [Client thread/INFO]: [CHAT] First position set to (336.0, 102.0, 316.0) (7).
+[21:19:35] [Client thread/INFO]: [CHAT] Second position set to (331.0, 102.0, 352.0) (222).
+[21:19:39] [Client thread/INFO]: [CHAT] Operation completed (210 blocks affected).
+[21:19:41] [Client thread/INFO]: [CHAT] First position set to (331.0, 102.0, 341.0) (12).
+[21:19:45] [Client thread/INFO]: [CHAT] Second position set to (309.0, 102.0, 324.0) (414).
+[21:19:47] [Client thread/INFO]: [CHAT] Operation completed (352 blocks affected).
+[21:19:51] [Client thread/INFO]: [CHAT] First position set to (309.0, 112.0, 341.0) (198).
+[21:19:53] [Client thread/INFO]: [CHAT] Second position set to (309.0, 103.0, 324.0) (180).
+[21:19:55] [Client thread/INFO]: [CHAT] Operation completed (160 blocks affected).
+[21:20:25] [Client thread/INFO]: [CHAT] First position set to (336.0, 112.0, 317.0) (2240).
+[21:20:27] [Client thread/INFO]: [CHAT] Second position set to (331.0, 103.0, 320.0) (240).
+[21:20:29] [Client thread/INFO]: [CHAT] Operation completed (238 blocks affected).
+[21:20:36] [Client thread/INFO]: [CHAT] Second position set to (331.0, 113.0, 351.0) (420).
+[21:20:44] [Client thread/INFO]: [CHAT] First position set to (336.0, 103.0, 346.0) (396).
+[21:20:45] [Client thread/INFO]: [CHAT] Operation completed (359 blocks affected).
+[21:21:44] [Server thread/INFO]: Saving and pausing game...
+[21:21:44] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[21:21:44] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[21:21:44] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[21:21:46] [Server thread/INFO]: Stopping server
+[21:21:46] [Server thread/INFO]: Saving players
+[21:21:46] [Server thread/INFO]: Saving worlds
+[21:21:46] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[21:21:46] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[21:21:46] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[21:21:47] [Client thread/INFO]: Stopping!
+[21:21:47] [Client thread/INFO]: SoundSystem shutting down...
+[21:21:48] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
