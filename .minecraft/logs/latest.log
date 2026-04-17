@@ -1,23 +1,23 @@
-[09:38:04] [Client thread/INFO]: Setting user: chancellor77
-[09:38:06] [Client thread/INFO]: LWJGL Version: 2.9.4
-[09:38:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
-[09:38:10] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[09:38:11] [Thread-8/INFO]: Initializing LWJGL OpenAL
-[09:38:11] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[09:38:11] [Thread-8/INFO]: OpenAL initialized.
-[09:38:11] [Sound Library Loader/INFO]: Sound engine started
-[09:38:12] [Client thread/INFO]: Created: 16x16 textures-atlas
-[09:38:13] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
-[09:38:14] [Client thread/INFO]: SoundSystem shutting down...
-[09:38:14] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[09:38:14] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[09:38:14] [Thread-10/INFO]: Initializing LWJGL OpenAL
-[09:38:14] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[09:38:15] [Thread-10/INFO]: OpenAL initialized.
-[09:38:15] [Sound Library Loader/INFO]: Sound engine started
-[09:38:15] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[09:38:18] [Realms Notification Availability checker #1/ERROR]: Could not parse RealmsError: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12
-[09:38:18] [Realms Notification Availability checker #1/ERROR]: The error was: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+[08:39:40] [Client thread/INFO]: Setting user: chancellor77
+[08:39:43] [Client thread/INFO]: LWJGL Version: 2.9.4
+[08:39:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
+[08:39:51] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[08:39:51] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[08:39:51] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[08:39:51] [Thread-8/INFO]: OpenAL initialized.
+[08:39:51] [Sound Library Loader/INFO]: Sound engine started
+[08:39:53] [Client thread/INFO]: Created: 16x16 textures-atlas
+[08:39:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
+[08:39:57] [Client thread/INFO]: SoundSystem shutting down...
+[08:39:57] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[08:39:57] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[08:39:57] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[08:39:57] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[08:39:57] [Thread-10/INFO]: OpenAL initialized.
+[08:39:57] [Sound Library Loader/INFO]: Sound engine started
+[08:39:59] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[08:40:03] [Realms Notification Availability checker #1/ERROR]: Could not parse RealmsError: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12
+[08:40:03] [Realms Notification Availability checker #1/ERROR]: The error was: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
 <html><head>
 <title>404 Not Found</title>
 </head><body>
@@ -27,7 +27,7 @@
 <address>Apache Server at mcoapi.minecraft.net Port 443</address>
 </body></html>
 
-[09:38:18] [Realms Notification Availability checker #1/ERROR]: Realms http code: 404 -  error code: 0 -  message: null - raw body: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+[08:40:03] [Realms Notification Availability checker #1/ERROR]: Realms http code: 404 -  error code: 0 -  message: null - raw body: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
 <html><head>
 <title>404 Not Found</title>
 </head><body>
@@ -37,69 +37,136 @@
 <address>Apache Server at mcoapi.minecraft.net Port 443</address>
 </body></html>
 
-[09:38:24] [Realms Notification Availability checker #1/ERROR]: Could not parse RealmsError: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12
-[09:38:24] [Realms Notification Availability checker #1/ERROR]: The error was: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-<hr>
-<address>Apache Server at mcoapi.minecraft.net Port 443</address>
-</body></html>
-
-[09:38:24] [Realms Notification Availability checker #1/ERROR]: Realms http code: 404 -  error code: 0 -  message: null - raw body: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-<hr>
-<address>Apache Server at mcoapi.minecraft.net Port 443</address>
-</body></html>
-
-[09:38:25] [Server thread/INFO]: Starting integrated minecraft server version 1.9
-[09:38:25] [Server thread/INFO]: Generating keypair
-[09:38:26] [Server thread/INFO]: Preparing start region for level 0
-[09:38:27] [Server thread/INFO]: Preparing spawn area: 78%
-[09:38:27] [Server thread/INFO]: Changing view distance to 8, from 10
-[09:38:28] [Server thread/INFO]: chancellor77[local:E:1b20a695] logged in with entity id 298 at (322.4923329447496, 70.03745723544249, 370.9082837249434)
-[09:38:28] [Server thread/INFO]: chancellor77 joined the game
-[09:38:28] [Server thread/INFO]: Saving and pausing game...
-[09:38:28] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[09:38:29] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[09:38:29] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[09:46:29] [Server thread/INFO]: Saving and pausing game...
-[09:46:29] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[09:46:30] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[09:46:30] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[09:46:30] [Server thread/INFO]: Stopping server
-[09:46:30] [Server thread/INFO]: Saving players
-[09:46:30] [Server thread/INFO]: Saving worlds
-[09:46:30] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
-[09:46:30] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
-[09:46:30] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
-[09:46:32] [Realms Notification Availability checker #1/ERROR]: Could not parse RealmsError: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12
-[09:46:32] [Realms Notification Availability checker #1/ERROR]: The error was: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-<hr>
-<address>Apache Server at mcoapi.minecraft.net Port 443</address>
-</body></html>
-
-[09:46:32] [Realms Notification Availability checker #1/ERROR]: Realms http code: 404 -  error code: 0 -  message: null - raw body: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-<hr>
-<address>Apache Server at mcoapi.minecraft.net Port 443</address>
-</body></html>
-
-[09:46:35] [Client thread/INFO]: Stopping!
-[09:46:35] [Client thread/INFO]: SoundSystem shutting down...
-[09:46:36] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[08:40:06] [Server thread/INFO]: Starting integrated minecraft server version 1.9
+[08:40:06] [Server thread/INFO]: Generating keypair
+[08:40:08] [Server thread/INFO]: Preparing start region for level 0
+[08:40:09] [Server thread/INFO]: Preparing spawn area: 13%
+[08:40:10] [Server thread/INFO]: Preparing spawn area: 58%
+[08:40:11] [Server thread/INFO]: Changing view distance to 8, from 10
+[08:40:11] [Server thread/INFO]: chancellor77[local:E:da2e21c0] logged in with entity id 290 at (331.3225322513776, 98.20000004768372, 408.94764545122666)
+[08:40:11] [Server thread/INFO]: chancellor77 joined the game
+[08:40:12] [Server thread/INFO]: Saving and pausing game...
+[08:40:12] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:40:13] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:40:13] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:40:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2884ms behind, skipping 57 tick(s)
+[08:40:36] [Server thread/INFO]: Saving and pausing game...
+[08:40:36] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:40:37] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:40:37] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:40:41] [Server thread/INFO]: Saving and pausing game...
+[08:40:41] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:40:42] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:40:42] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:41:00] [Server thread/INFO]: [chancellor77: Teleported chancellor77 to 249.5, 130.0, 267.5]
+[08:41:00] [Client thread/INFO]: [CHAT] Teleported chancellor77 to 249.5, 130.0, 267.5
+[08:41:07] [Server thread/INFO]: Saving and pausing game...
+[08:41:07] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:41:07] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:41:07] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:41:15] [Server thread/INFO]: Saving and pausing game...
+[08:41:15] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:41:16] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:41:16] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:41:30] [Server thread/INFO]: Saving and pausing game...
+[08:41:30] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:41:30] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:41:30] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:42:10] [Server thread/INFO]: Saving and pausing game...
+[08:42:10] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:42:11] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:42:11] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:42:17] [Server thread/INFO]: Saving and pausing game...
+[08:42:17] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:42:18] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:42:18] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:42:28] [Server thread/INFO]: Saving and pausing game...
+[08:42:28] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:42:29] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:42:29] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:42:38] [Server thread/INFO]: Saving and pausing game...
+[08:42:38] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:42:38] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:42:38] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:42:51] [Server thread/INFO]: Saving and pausing game...
+[08:42:51] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:42:52] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:42:52] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:43:02] [Server thread/INFO]: Saving and pausing game...
+[08:43:02] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:43:03] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:43:03] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:43:36] [Server thread/INFO]: Saving and pausing game...
+[08:43:36] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:43:37] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:43:37] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:43:44] [Server thread/INFO]: Saving and pausing game...
+[08:43:44] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:43:45] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:43:45] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:43:53] [Server thread/INFO]: Saving and pausing game...
+[08:43:53] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:43:54] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:43:54] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:44:07] [Server thread/INFO]: Saving and pausing game...
+[08:44:07] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:44:08] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:44:08] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:44:12] [Server thread/INFO]: Saving and pausing game...
+[08:44:12] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:44:13] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:44:13] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:44:23] [Server thread/INFO]: Saving and pausing game...
+[08:44:23] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:44:24] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:44:24] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:44:36] [Server thread/INFO]: Saving and pausing game...
+[08:44:36] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:44:36] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:44:36] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:44:39] [Server thread/INFO]: Saving and pausing game...
+[08:44:39] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:44:40] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:44:40] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:44:44] [Server thread/INFO]: Saving and pausing game...
+[08:44:45] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:44:46] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:44:46] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:44:52] [Server thread/INFO]: Saving and pausing game...
+[08:44:52] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:44:53] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:44:53] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:44:58] [Server thread/INFO]: Saving and pausing game...
+[08:44:58] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:44:59] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:44:59] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:45:17] [Server thread/INFO]: Saving and pausing game...
+[08:45:17] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:45:18] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:45:18] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:45:24] [Server thread/INFO]: Saving and pausing game...
+[08:45:24] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:45:24] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:45:24] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:46:05] [Server thread/INFO]: Saving and pausing game...
+[08:46:05] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:46:06] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:46:06] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:50:22] [Server thread/INFO]: Saving and pausing game...
+[08:50:22] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:50:24] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:50:24] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:50:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5113ms behind, skipping 102 tick(s)
+[08:50:33] [Server thread/INFO]: Saving and pausing game...
+[08:50:33] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:50:34] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:50:34] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:50:34] [Server thread/INFO]: Stopping server
+[08:50:34] [Server thread/INFO]: Saving players
+[08:50:34] [Server thread/INFO]: Saving worlds
+[08:50:34] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Overworld
+[08:50:34] [Server thread/INFO]: Saving chunks for level 'Blood v2'/Nether
+[08:50:34] [Server thread/INFO]: Saving chunks for level 'Blood v2'/The End
+[08:50:35] [Client thread/INFO]: Stopping!
+[08:50:35] [Client thread/INFO]: SoundSystem shutting down...
+[08:50:35] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
