@@ -1,59 +1,59 @@
-[08:32:35] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
-[08:32:35] [main/INFO] [FML/]: Forge Mod Loader version 12.16.0.1865 for Minecraft 1.9 loading
-[08:32:35] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_481, running on Windows 11:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_481
-[08:32:35] [main/DEBUG] [FML/]: Java classpath at launch is C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/jars/NewLaunch.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/mojang/netty/1.8.8/netty-1.8.8.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/java/dev/jna/jna/3.4.0/jna-3.4.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/google/guava/guava/17.0/guava-17.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/mojang/authlib/1.5.22/authlib-1.5.22.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/mojang/realms/1.8.7/realms-1.8.7.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.0-beta9-fixed/log4j-api-2.0-beta9-fixed.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.0-beta9-fixed/log4j-core-2.0-beta9-fixed.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/minecraftforge/forge/1.9-12.16.0.1865-1.9/forge-1.9-12.16.0.1865-1.9-universal.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/jline/jline/2.13/jline-2.13.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/mojang/minecraft/1.9/minecraft-1.9-client.jar
-[08:32:35] [main/DEBUG] [FML/]: Java library path at launch is C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/instances/1.9/natives
-[08:32:35] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
-[08:32:35] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
-[08:32:35] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
-[08:32:36] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
-[08:32:36] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
-[08:32:36] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
-[08:32:36] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
-[08:32:36] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\instances\1.9\.minecraft
-[08:32:36] [main/DEBUG] [FML/]: Discovering coremods
-[08:32:36] [main/DEBUG] [FML/]: Examining for coremod candidacy worldedit-forge-mc1.9-6.1.2-dist.jar
-[08:32:36] [main/DEBUG] [FML/]: Not found coremod data in worldedit-forge-mc1.9-6.1.2-dist.jar
-[08:32:36] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[08:32:36] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[08:32:36] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[08:32:36] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[08:32:36] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[08:32:36] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
-[08:32:36] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
-[08:32:36] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
-[08:32:36] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
-[08:32:36] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
-[08:32:36] [main/DEBUG] [FML/]: Injection complete
-[08:32:36] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
-[08:32:36] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
-[08:32:37] [main/DEBUG] [FML/]: Read 846 binary patches
-[08:32:37] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.9.lzma with 31805 records
-[08:32:38] [main/INFO] [FML/]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
-[08:32:38] [main/ERROR] [FML/]: FML appears to be missing any signature data. This is not a good thing
-[08:32:38] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
-[08:32:38] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[08:32:38] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
-[08:32:38] [main/DEBUG] [FML/]: Injection complete
-[08:32:38] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
-[08:32:38] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
-[08:32:38] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
-[08:32:38] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[08:32:38] [main/DEBUG] [FML/]: Loaded 188 rules from AccessTransformer config file forge_at.cfg
-[08:32:38] [main/DEBUG] [FML/]: Loaded 4 rules from AccessTransformer mod jar file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\instances\1.9\.minecraft\mods\worldedit-forge-mc1.9-6.1.2-dist.jar!META-INF/worldedit_at.cfg
+[09:38:02] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[09:38:02] [main/INFO] [FML/]: Forge Mod Loader version 12.16.0.1865 for Minecraft 1.9 loading
+[09:38:02] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_481, running on Windows 11:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_481
+[09:38:02] [main/DEBUG] [FML/]: Java classpath at launch is C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/jars/NewLaunch.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/mojang/netty/1.8.8/netty-1.8.8.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/java/dev/jna/jna/3.4.0/jna-3.4.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/google/guava/guava/17.0/guava-17.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/mojang/authlib/1.5.22/authlib-1.5.22.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/mojang/realms/1.8.7/realms-1.8.7.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.0-beta9-fixed/log4j-api-2.0-beta9-fixed.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.0-beta9-fixed/log4j-core-2.0-beta9-fixed.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/minecraftforge/forge/1.9-12.16.0.1865-1.9/forge-1.9-12.16.0.1865-1.9-universal.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/jline/jline/2.13/jline-2.13.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar;C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/libraries/com/mojang/minecraft/1.9/minecraft-1.9-client.jar
+[09:38:02] [main/DEBUG] [FML/]: Java library path at launch is C:/Users/USER/Desktop/.INSTALL FILES/MultiMC/instances/1.9/natives
+[09:38:02] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[09:38:02] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[09:38:02] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[09:38:02] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[09:38:02] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[09:38:02] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[09:38:02] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[09:38:02] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\instances\1.9\.minecraft
+[09:38:02] [main/DEBUG] [FML/]: Discovering coremods
+[09:38:02] [main/DEBUG] [FML/]: Examining for coremod candidacy worldedit-forge-mc1.9-6.1.2-dist.jar
+[09:38:02] [main/DEBUG] [FML/]: Not found coremod data in worldedit-forge-mc1.9-6.1.2-dist.jar
+[09:38:02] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[09:38:02] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[09:38:02] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[09:38:02] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[09:38:02] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[09:38:02] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
+[09:38:02] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[09:38:02] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[09:38:02] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[09:38:02] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[09:38:02] [main/DEBUG] [FML/]: Injection complete
+[09:38:02] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
+[09:38:02] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[09:38:03] [main/DEBUG] [FML/]: Read 846 binary patches
+[09:38:03] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.9.lzma with 31805 records
+[09:38:03] [main/INFO] [FML/]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[09:38:03] [main/ERROR] [FML/]: FML appears to be missing any signature data. This is not a good thing
+[09:38:03] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[09:38:03] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[09:38:03] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[09:38:03] [main/DEBUG] [FML/]: Injection complete
+[09:38:03] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[09:38:03] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[09:38:03] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[09:38:03] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[09:38:03] [main/DEBUG] [FML/]: Loaded 188 rules from AccessTransformer config file forge_at.cfg
+[09:38:03] [main/DEBUG] [FML/]: Loaded 4 rules from AccessTransformer mod jar file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\instances\1.9\.minecraft\mods\worldedit-forge-mc1.9-6.1.2-dist.jar!META-INF/worldedit_at.cfg
 
-[08:32:38] [main/DEBUG] [FML/]: Validating minecraft
-[08:32:38] [main/DEBUG] [FML/]: Minecraft validated, launching...
-[08:32:38] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[08:32:38] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[08:32:38] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[08:32:42] [Client thread/DEBUG] [FML/]: Creating vanilla freeze snapshot
-[08:32:42] [Client thread/DEBUG] [FML/]: Vanilla freeze snapshot created
-[08:32:43] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - LanguageManager took 0.003s
-[08:32:44] [Client thread/INFO] [STDOUT/]: [net.minecraftforge.fml.client.SplashProgress:start:200]: ---- Minecraft Crash Report ----
-// Uh... Did I do that?
+[09:38:03] [main/DEBUG] [FML/]: Validating minecraft
+[09:38:04] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[09:38:04] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[09:38:04] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[09:38:04] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[09:38:06] [Client thread/DEBUG] [FML/]: Creating vanilla freeze snapshot
+[09:38:06] [Client thread/DEBUG] [FML/]: Vanilla freeze snapshot created
+[09:38:07] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - LanguageManager took 0.003s
+[09:38:07] [Client thread/INFO] [STDOUT/]: [net.minecraftforge.fml.client.SplashProgress:start:200]: ---- Minecraft Crash Report ----
+// Hey, that tickles! Hehehe!
 
-Time: 16/04/26 08:32
+Time: 16/04/26 09:38
 Description: Loading screen debug info
 
 This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
@@ -68,172 +68,172 @@ Details:
 	Operating System: Windows 11 (amd64) version 10.0
 	Java Version: 1.8.0_481, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 465150496 bytes (443 MB) / 643825664 bytes (614 MB) up to 954728448 bytes (910 MB)
+	Memory: 506333144 bytes (482 MB) / 648019968 bytes (618 MB) up to 954728448 bytes (910 MB)
 	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx1024m
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
 	Loaded coremods (and transformers): 
 	GL info: ' Vendor: 'Intel' Version: '4.3.0 - Build 20.19.15.5126' Renderer: 'Intel(R) HD Graphics 4600'
-[08:32:44] [Client thread/INFO] [FML/]: MinecraftForge v12.16.0.1865 Initialized
-[08:32:44] [Client thread/INFO] [FML/]: Replaced 207 ore recipes
-[08:32:44] [Client thread/DEBUG] [FML/]: File C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\instances\1.9\.minecraft\config\injectedDependencies.json not found. No dependencies injected
-[08:32:44] [Client thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
-[08:32:44] [Client thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
-[08:32:44] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\jars\NewLaunch.jar, examining for mod candidates
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar
-[08:32:44] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\mojang\netty\1.8.8\netty-1.8.8.jar, examining for mod candidates
-[08:32:44] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar, examining for mod candidates
-[08:32:44] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\java\dev\jna\jna\3.4.0\jna-3.4.0.jar, examining for mod candidates
-[08:32:44] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar, examining for mod candidates
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
-[08:32:44] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar, examining for mod candidates
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\io\netty\netty-all\4.0.23.Final\netty-all-4.0.23.Final.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\google\guava\guava\17.0\guava-17.0.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\mojang\authlib\1.5.22\authlib-1.5.22.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\mojang\realms\1.8.7\realms-1.8.7.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9-fixed\log4j-api-2.0-beta9-fixed.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9-fixed\log4j-core-2.0-beta9-fixed.jar
-[08:32:44] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\minecraftforge\forge\1.9-12.16.0.1865-1.9\forge-1.9-12.16.0.1865-1.9-universal.jar, examining for mod candidates
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar
-[08:32:44] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\jline\jline\2.13\jline-2.13.jar, examining for mod candidates
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar
-[08:32:44] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
-[08:32:44] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\mojang\minecraft\1.9\minecraft-1.9-client.jar, examining for mod candidates
-[08:32:44] [Client thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
-[08:32:44] [Client thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
-[08:32:44] [Client thread/INFO] [FML/]: Searching C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\instances\1.9\.minecraft\mods for mods
-[08:32:44] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file worldedit-forge-mc1.9-6.1.2-dist.jar
-[08:32:44] [Client thread/DEBUG] [FML/]: Examining file NewLaunch.jar for potential mods
-[08:32:44] [Client thread/DEBUG] [FML/]: The mod container NewLaunch.jar appears to be missing an mcmod.info file
-[08:32:44] [Client thread/DEBUG] [FML/]: Examining file netty-1.8.8.jar for potential mods
-[08:32:44] [Client thread/DEBUG] [FML/]: The mod container netty-1.8.8.jar appears to be missing an mcmod.info file
-[08:32:44] [Client thread/DEBUG] [FML/]: Examining file oshi-core-1.1.jar for potential mods
-[08:32:44] [Client thread/DEBUG] [FML/]: The mod container oshi-core-1.1.jar appears to be missing an mcmod.info file
-[08:32:44] [Client thread/DEBUG] [FML/]: Examining file jna-3.4.0.jar for potential mods
-[08:32:44] [Client thread/DEBUG] [FML/]: The mod container jna-3.4.0.jar appears to be missing an mcmod.info file
-[08:32:44] [Client thread/DEBUG] [FML/]: Examining file platform-3.4.0.jar for potential mods
-[08:32:44] [Client thread/DEBUG] [FML/]: The mod container platform-3.4.0.jar appears to be missing an mcmod.info file
-[08:32:45] [Client thread/DEBUG] [FML/]: Examining file libraryjavasound-20101123.jar for potential mods
-[08:32:45] [Client thread/DEBUG] [FML/]: The mod container libraryjavasound-20101123.jar appears to be missing an mcmod.info file
-[08:32:45] [Client thread/DEBUG] [FML/]: Examining file forge-1.9-12.16.0.1865-1.9-universal.jar for potential mods
-[08:32:45] [Client thread/DEBUG] [FML/]: The mod container forge-1.9-12.16.0.1865-1.9-universal.jar appears to be missing an mcmod.info file
-[08:32:45] [Client thread/DEBUG] [FML/]: Examining file jline-2.13.jar for potential mods
-[08:32:45] [Client thread/DEBUG] [FML/]: The mod container jline-2.13.jar appears to be missing an mcmod.info file
-[08:32:45] [Client thread/DEBUG] [FML/]: Examining file minecraft-1.9-client.jar for potential mods
-[08:32:45] [Client thread/DEBUG] [FML/]: The mod container minecraft-1.9-client.jar appears to be missing an mcmod.info file
-[08:32:46] [Client thread/DEBUG] [FML/]: Examining file worldedit-forge-mc1.9-6.1.2-dist.jar for potential mods
-[08:32:46] [Client thread/TRACE] [FML/]: Located mcmod.info file in file worldedit-forge-mc1.9-6.1.2-dist.jar
-[08:32:46] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.sk89q.worldedit.forge.ForgeWorldEdit) - loading
-[08:32:46] [Client thread/TRACE] [worldedit/]: Parsed dependency info : [] [] []
-[08:32:47] [Client thread/INFO] [FML/]: Forge Mod Loader has identified 4 mods to load
-[08:32:47] [Client thread/TRACE] [FML/]: Received a system property request ''
-[08:32:47] [Client thread/TRACE] [FML/]: System property request managing the state of 0 mods
-[08:32:47] [Client thread/DEBUG] [FML/]: After merging, found state information for 0 mods
-[08:32:47] [Client thread/DEBUG] [worldedit/]: Enabling mod worldedit
-[08:32:47] [Client thread/TRACE] [FML/]: Verifying mod requirements are satisfied
-[08:32:47] [Client thread/TRACE] [FML/]: All mod requirements are satisfied
-[08:32:47] [Client thread/TRACE] [FML/]: Sorting mods into an ordered list
-[08:32:47] [Client thread/TRACE] [FML/]: Mod sorting completed successfully
-[08:32:47] [Client thread/DEBUG] [FML/]: Mod sorting data
-[08:32:47] [Client thread/DEBUG] [FML/]: 	worldedit(WorldEdit:6.1.2): worldedit-forge-mc1.9-6.1.2-dist.jar ()
-[08:32:47] [Client thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
-[08:32:47] [Client thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
-[08:32:47] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.001s
-[08:32:47] [Client thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
-[08:32:47] [Client thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
-[08:32:47] [Client thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
-[08:32:47] [Client thread/TRACE] [FML/FML]: The mod FML accepts its own version (8.0.99.99)
-[08:32:47] [Client thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, worldedit] at CLIENT
-[08:32:47] [Client thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, worldedit] at SERVER
-[08:32:47] [Client thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
-[08:32:47] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.579s
-[08:32:47] [Client thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
-[08:32:47] [Client thread/TRACE] [FML/Forge]: Mod Forge is using network checker : No network checking performed
-[08:32:47] [Client thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
-[08:32:47] [Client thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (12.16.0.1865)
-[08:32:47] [Client thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
-[08:32:47] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.018s
-[08:32:47] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLConstructionEvent to mod worldedit
-[08:32:47] [Client thread/TRACE] [FML/worldedit]: Mod worldedit is using network checker : No network checking performed
-[08:32:47] [Client thread/TRACE] [FML/worldedit]: Testing mod worldedit to verify it accepts its own version in a remote connection
-[08:32:47] [Client thread/TRACE] [FML/worldedit]: The mod worldedit accepts its own version (6.1.2)
-[08:32:47] [Client thread/DEBUG] [FML/worldedit]: Attempting to inject @SidedProxy classes into worldedit
-[08:32:47] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLConstructionEvent to mod worldedit
-[08:32:47] [Client thread/DEBUG] [FML/]: Bar Step: Construction - WorldEdit took 0.137s
-[08:32:47] [Client thread/DEBUG] [FML/]: Bar Finished: Construction took 0.735s
-[08:32:47] [Client thread/DEBUG] [FML/]: Mod signature data
-[08:32:47] [Client thread/DEBUG] [FML/]:  	Valid Signatures:
-[08:32:47] [Client thread/DEBUG] [FML/]:  	Missing Signatures:
-[08:32:47] [Client thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.19)	minecraft.jar
-[08:32:47] [Client thread/DEBUG] [FML/]: 		FML	(Forge Mod Loader	8.0.99.99)	forge-1.9-12.16.0.1865-1.9-universal.jar
-[08:32:47] [Client thread/DEBUG] [FML/]: 		Forge	(Minecraft Forge	12.16.0.1865)	forge-1.9-12.16.0.1865-1.9-universal.jar
-[08:32:47] [Client thread/DEBUG] [FML/]: 		worldedit	(WorldEdit	6.1.2)	worldedit-forge-mc1.9-6.1.2-dist.jar
-[08:32:47] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Default took 0.005s
-[08:32:47] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Forge Mod Loader took 0.002s
-[08:32:47] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Minecraft Forge took 0.002s
-[08:32:47] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:WorldEdit took 0.001s
-[08:32:47] [Client thread/DEBUG] [FML/]: Bar Finished: Reloading - LanguageManager took 0.027s
-[08:32:47] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Reloading listeners took 0.028s
-[08:32:47] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resources took 0.037s
-[08:32:47] [Client thread/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
-[08:32:47] [Client thread/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
-[08:32:47] [Client thread/DEBUG] [WorldEdit/]: Mod WorldEdit is missing a pack.mcmeta file, substituting a dummy one
-[08:32:47] [Client thread/INFO] [FML/]: Processing ObjectHolder annotations
-[08:32:47] [Client thread/INFO] [FML/]: Found 418 ObjectHolder annotations
-[08:32:47] [Client thread/INFO] [FML/]: Identifying ItemStackHolder annotations
-[08:32:47] [Client thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
-[08:32:47] [Client thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
-[08:32:47] [Client thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
-[08:32:47] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.004s
-[08:32:47] [Client thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
-[08:32:48] [Client thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
-[08:32:48] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.028s
-[08:32:48] [Client thread/TRACE] [Forge/Forge]: Sending event FMLPreInitializationEvent to mod Forge
-[08:32:48] [Client thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
-[08:32:48] [Client thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
-[08:32:48] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.061s
-[08:32:48] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLPreInitializationEvent to mod worldedit
-[08:32:48] [Forge Version Check/INFO] [ForgeVersionCheck/Forge]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[08:32:48] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLPreInitializationEvent to mod worldedit
-[08:32:48] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - WorldEdit took 0.025s
-[08:32:48] [Client thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 0.117s
-[08:32:48] [Client thread/INFO] [FML/]: Applying holder lookups
-[08:32:48] [Client thread/INFO] [FML/]: Holder lookups applied
-[08:32:48] [Client thread/INFO] [FML/]: Injecting itemstacks
-[08:32:48] [Client thread/INFO] [FML/]: Itemstack injection complete
-[08:32:48] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - TextureManager took 0.000s
-[08:32:48] [Forge Version Check/DEBUG] [ForgeVersionCheck/Forge]: [Forge] Received version check data:
+[09:38:07] [Client thread/INFO] [FML/]: MinecraftForge v12.16.0.1865 Initialized
+[09:38:07] [Client thread/INFO] [FML/]: Replaced 207 ore recipes
+[09:38:07] [Client thread/DEBUG] [FML/]: File C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\instances\1.9\.minecraft\config\injectedDependencies.json not found. No dependencies injected
+[09:38:07] [Client thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[09:38:07] [Client thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[09:38:07] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\jars\NewLaunch.jar, examining for mod candidates
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar
+[09:38:08] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\mojang\netty\1.8.8\netty-1.8.8.jar, examining for mod candidates
+[09:38:08] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar, examining for mod candidates
+[09:38:08] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\java\dev\jna\jna\3.4.0\jna-3.4.0.jar, examining for mod candidates
+[09:38:08] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar, examining for mod candidates
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+[09:38:08] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar, examining for mod candidates
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\io\netty\netty-all\4.0.23.Final\netty-all-4.0.23.Final.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\google\guava\guava\17.0\guava-17.0.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\mojang\authlib\1.5.22\authlib-1.5.22.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\mojang\realms\1.8.7\realms-1.8.7.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9-fixed\log4j-api-2.0-beta9-fixed.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9-fixed\log4j-core-2.0-beta9-fixed.jar
+[09:38:08] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\minecraftforge\forge\1.9-12.16.0.1865-1.9\forge-1.9-12.16.0.1865-1.9-universal.jar, examining for mod candidates
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar
+[09:38:08] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\jline\jline\2.13\jline-2.13.jar, examining for mod candidates
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar
+[09:38:08] [Client thread/TRACE] [FML/]: Skipping known library file C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+[09:38:08] [Client thread/DEBUG] [FML/]: Found a minecraft related file at C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\libraries\com\mojang\minecraft\1.9\minecraft-1.9-client.jar, examining for mod candidates
+[09:38:08] [Client thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[09:38:08] [Client thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[09:38:08] [Client thread/INFO] [FML/]: Searching C:\Users\USER\Desktop\.INSTALL FILES\MultiMC\instances\1.9\.minecraft\mods for mods
+[09:38:08] [Client thread/DEBUG] [FML/]: Found a candidate zip or jar file worldedit-forge-mc1.9-6.1.2-dist.jar
+[09:38:08] [Client thread/DEBUG] [FML/]: Examining file NewLaunch.jar for potential mods
+[09:38:08] [Client thread/DEBUG] [FML/]: The mod container NewLaunch.jar appears to be missing an mcmod.info file
+[09:38:08] [Client thread/DEBUG] [FML/]: Examining file netty-1.8.8.jar for potential mods
+[09:38:08] [Client thread/DEBUG] [FML/]: The mod container netty-1.8.8.jar appears to be missing an mcmod.info file
+[09:38:08] [Client thread/DEBUG] [FML/]: Examining file oshi-core-1.1.jar for potential mods
+[09:38:08] [Client thread/DEBUG] [FML/]: The mod container oshi-core-1.1.jar appears to be missing an mcmod.info file
+[09:38:08] [Client thread/DEBUG] [FML/]: Examining file jna-3.4.0.jar for potential mods
+[09:38:08] [Client thread/DEBUG] [FML/]: The mod container jna-3.4.0.jar appears to be missing an mcmod.info file
+[09:38:08] [Client thread/DEBUG] [FML/]: Examining file platform-3.4.0.jar for potential mods
+[09:38:08] [Client thread/DEBUG] [FML/]: The mod container platform-3.4.0.jar appears to be missing an mcmod.info file
+[09:38:08] [Client thread/DEBUG] [FML/]: Examining file libraryjavasound-20101123.jar for potential mods
+[09:38:08] [Client thread/DEBUG] [FML/]: The mod container libraryjavasound-20101123.jar appears to be missing an mcmod.info file
+[09:38:08] [Client thread/DEBUG] [FML/]: Examining file forge-1.9-12.16.0.1865-1.9-universal.jar for potential mods
+[09:38:08] [Client thread/DEBUG] [FML/]: The mod container forge-1.9-12.16.0.1865-1.9-universal.jar appears to be missing an mcmod.info file
+[09:38:08] [Client thread/DEBUG] [FML/]: Examining file jline-2.13.jar for potential mods
+[09:38:08] [Client thread/DEBUG] [FML/]: The mod container jline-2.13.jar appears to be missing an mcmod.info file
+[09:38:08] [Client thread/DEBUG] [FML/]: Examining file minecraft-1.9-client.jar for potential mods
+[09:38:08] [Client thread/DEBUG] [FML/]: The mod container minecraft-1.9-client.jar appears to be missing an mcmod.info file
+[09:38:09] [Client thread/DEBUG] [FML/]: Examining file worldedit-forge-mc1.9-6.1.2-dist.jar for potential mods
+[09:38:09] [Client thread/TRACE] [FML/]: Located mcmod.info file in file worldedit-forge-mc1.9-6.1.2-dist.jar
+[09:38:09] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.sk89q.worldedit.forge.ForgeWorldEdit) - loading
+[09:38:09] [Client thread/TRACE] [worldedit/]: Parsed dependency info : [] [] []
+[09:38:09] [Client thread/INFO] [FML/]: Forge Mod Loader has identified 4 mods to load
+[09:38:09] [Client thread/TRACE] [FML/]: Received a system property request ''
+[09:38:09] [Client thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[09:38:09] [Client thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[09:38:09] [Client thread/DEBUG] [worldedit/]: Enabling mod worldedit
+[09:38:09] [Client thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[09:38:09] [Client thread/TRACE] [FML/]: All mod requirements are satisfied
+[09:38:09] [Client thread/TRACE] [FML/]: Sorting mods into an ordered list
+[09:38:09] [Client thread/TRACE] [FML/]: Mod sorting completed successfully
+[09:38:09] [Client thread/DEBUG] [FML/]: Mod sorting data
+[09:38:09] [Client thread/DEBUG] [FML/]: 	worldedit(WorldEdit:6.1.2): worldedit-forge-mc1.9-6.1.2-dist.jar ()
+[09:38:09] [Client thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[09:38:09] [Client thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[09:38:09] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.002s
+[09:38:09] [Client thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[09:38:09] [Client thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
+[09:38:09] [Client thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[09:38:09] [Client thread/TRACE] [FML/FML]: The mod FML accepts its own version (8.0.99.99)
+[09:38:09] [Client thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, worldedit] at CLIENT
+[09:38:09] [Client thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, worldedit] at SERVER
+[09:38:09] [Client thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[09:38:09] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.280s
+[09:38:09] [Client thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
+[09:38:09] [Client thread/TRACE] [FML/Forge]: Mod Forge is using network checker : No network checking performed
+[09:38:09] [Client thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
+[09:38:09] [Client thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (12.16.0.1865)
+[09:38:09] [Client thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
+[09:38:09] [Client thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.012s
+[09:38:09] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLConstructionEvent to mod worldedit
+[09:38:09] [Client thread/TRACE] [FML/worldedit]: Mod worldedit is using network checker : No network checking performed
+[09:38:09] [Client thread/TRACE] [FML/worldedit]: Testing mod worldedit to verify it accepts its own version in a remote connection
+[09:38:09] [Client thread/TRACE] [FML/worldedit]: The mod worldedit accepts its own version (6.1.2)
+[09:38:09] [Client thread/DEBUG] [FML/worldedit]: Attempting to inject @SidedProxy classes into worldedit
+[09:38:09] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLConstructionEvent to mod worldedit
+[09:38:09] [Client thread/DEBUG] [FML/]: Bar Step: Construction - WorldEdit took 0.139s
+[09:38:09] [Client thread/DEBUG] [FML/]: Bar Finished: Construction took 0.434s
+[09:38:09] [Client thread/DEBUG] [FML/]: Mod signature data
+[09:38:09] [Client thread/DEBUG] [FML/]:  	Valid Signatures:
+[09:38:09] [Client thread/DEBUG] [FML/]:  	Missing Signatures:
+[09:38:09] [Client thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.19)	minecraft.jar
+[09:38:09] [Client thread/DEBUG] [FML/]: 		FML	(Forge Mod Loader	8.0.99.99)	forge-1.9-12.16.0.1865-1.9-universal.jar
+[09:38:09] [Client thread/DEBUG] [FML/]: 		Forge	(Minecraft Forge	12.16.0.1865)	forge-1.9-12.16.0.1865-1.9-universal.jar
+[09:38:09] [Client thread/DEBUG] [FML/]: 		worldedit	(WorldEdit	6.1.2)	worldedit-forge-mc1.9-6.1.2-dist.jar
+[09:38:09] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Default took 0.006s
+[09:38:09] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Forge Mod Loader took 0.002s
+[09:38:09] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Minecraft Forge took 0.002s
+[09:38:09] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:WorldEdit took 0.004s
+[09:38:09] [Client thread/DEBUG] [FML/]: Bar Finished: Reloading - LanguageManager took 0.015s
+[09:38:09] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Reloading listeners took 0.016s
+[09:38:09] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resources took 0.029s
+[09:38:09] [Client thread/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[09:38:09] [Client thread/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[09:38:09] [Client thread/DEBUG] [WorldEdit/]: Mod WorldEdit is missing a pack.mcmeta file, substituting a dummy one
+[09:38:09] [Client thread/INFO] [FML/]: Processing ObjectHolder annotations
+[09:38:09] [Client thread/INFO] [FML/]: Found 418 ObjectHolder annotations
+[09:38:09] [Client thread/INFO] [FML/]: Identifying ItemStackHolder annotations
+[09:38:09] [Client thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[09:38:09] [Client thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[09:38:09] [Client thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[09:38:09] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.001s
+[09:38:09] [Client thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
+[09:38:09] [Client thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
+[09:38:09] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.026s
+[09:38:09] [Client thread/TRACE] [Forge/Forge]: Sending event FMLPreInitializationEvent to mod Forge
+[09:38:10] [Client thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[09:38:10] [Client thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
+[09:38:10] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.059s
+[09:38:10] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLPreInitializationEvent to mod worldedit
+[09:38:10] [Forge Version Check/INFO] [ForgeVersionCheck/Forge]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[09:38:10] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLPreInitializationEvent to mod worldedit
+[09:38:10] [Client thread/DEBUG] [FML/]: Bar Step: PreInitialization - WorldEdit took 0.021s
+[09:38:10] [Client thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 0.107s
+[09:38:10] [Client thread/INFO] [FML/]: Applying holder lookups
+[09:38:10] [Client thread/INFO] [FML/]: Holder lookups applied
+[09:38:10] [Client thread/INFO] [FML/]: Injecting itemstacks
+[09:38:10] [Client thread/INFO] [FML/]: Itemstack injection complete
+[09:38:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - TextureManager took 0.000s
+[09:38:10] [Forge Version Check/DEBUG] [ForgeVersionCheck/Forge]: [Forge] Received version check data:
 Moved Permanently
-[08:32:48] [Forge Version Check/DEBUG] [ForgeVersionCheck/Forge]: Failed to process update information
+[09:38:10] [Forge Version Check/DEBUG] [ForgeVersionCheck/Forge]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
 	at com.google.gson.Gson.fromJson(Gson.java:815) ~[Gson.class:?]
 	at com.google.gson.Gson.fromJson(Gson.java:768) ~[Gson.class:?]
@@ -247,343 +247,290 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[MapTypeAdapterFactory$Adapter.class:?]
 	at com.google.gson.Gson.fromJson(Gson.java:803) ~[Gson.class:?]
 	... 5 more
-[08:32:49] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - SoundHandler took 0.974s
-[08:32:49] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - FontRenderer took 0.008s
-[08:32:49] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - FontRenderer took 0.003s
-[08:32:49] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - GrassColorReloadListener took 0.011s
-[08:32:49] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - FoliageColorReloadListener took 0.012s
-[08:32:49] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - GL Setup took 0.001s
-[08:32:49] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Texture Map took 0.019s
-[08:32:49] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - B3DLoader took 0.000s
-[08:32:49] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - OBJLoader took 0.001s
-[08:32:49] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelFluid$FluidLoader took 0.000s
-[08:32:49] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ItemLayerModel$Loader took 0.000s
-[08:32:49] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - MultiLayerModel$Loader took 0.000s
-[08:32:49] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelDynBucket$LoaderDynBucket took 0.001s
-[08:32:51] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: blocks took 1.781s
-[08:32:51] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: items took 0.280s
-[08:32:51] [Client thread/INFO] [FML/]: Max texture size: 8192
-[08:32:51] [Client thread/DEBUG] [FML/]: Bar Finished: Texture stitching - missingno took 0.001s
-[08:32:51] [Client thread/DEBUG] [FML/]: Bar Finished: Texture creation took 0.002s
-[08:32:51] [Client thread/DEBUG] [FML/]: Bar Finished: Texture mipmap and upload - missingno took 0.000s
-[08:32:52] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: baking took 0.961s
-[08:32:52] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelManager took 3.264s
-[08:32:52] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Model Manager took 3.357s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - RenderItem took 0.003s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Item Renderer took 0.539s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - EntityRenderer took 0.000s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - BlockRendererDispatcher took 0.000s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - RenderGlobal took 0.000s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Entity Renderer took 0.111s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Finished: Rendering Setup took 4.027s
-[08:32:53] [Client thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
-[08:32:53] [Client thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.000s
-[08:32:53] [Client thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
-[08:32:53] [Client thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.000s
-[08:32:53] [Client thread/TRACE] [Forge/Forge]: Sending event FMLInitializationEvent to mod Forge
-[08:32:53] [Client thread/TRACE] [Forge/Forge]: Sent event FMLInitializationEvent to mod Forge
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.000s
-[08:32:53] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLInitializationEvent to mod worldedit
-[08:32:53] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLInitializationEvent to mod worldedit
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - WorldEdit took 0.027s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Finished: Initialization took 0.028s
-[08:32:53] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
-[08:32:53] [Client thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
-[08:32:53] [Client thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.004s
-[08:32:53] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
-[08:32:53] [Client thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
-[08:32:53] [Client thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.000s
-[08:32:53] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod Forge
-[08:32:53] [Client thread/TRACE] [Forge/Forge]: Sending event IMCEvent to mod Forge
-[08:32:53] [Client thread/TRACE] [Forge/Forge]: Sent event IMCEvent to mod Forge
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.000s
-[08:32:53] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod worldedit
-[08:32:53] [Client thread/TRACE] [worldedit/worldedit]: Sending event IMCEvent to mod worldedit
-[08:32:53] [Client thread/TRACE] [worldedit/worldedit]: Sent event IMCEvent to mod worldedit
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - WorldEdit took 0.000s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.005s
-[08:32:53] [Client thread/INFO] [FML/]: Injecting itemstacks
-[08:32:53] [Client thread/INFO] [FML/]: Itemstack injection complete
-[08:32:53] [Client thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
-[08:32:53] [Client thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.000s
-[08:32:53] [Client thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
-[08:32:53] [Client thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.000s
-[08:32:53] [Client thread/TRACE] [Forge/Forge]: Sending event FMLPostInitializationEvent to mod Forge
-[08:32:53] [Client thread/TRACE] [Forge/Forge]: Sent event FMLPostInitializationEvent to mod Forge
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.008s
-[08:32:53] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLPostInitializationEvent to mod worldedit
-[08:32:53] [Client thread/INFO] [worldedit/worldedit]: WorldEdit for Forge (version 6.1.2) is loaded
-[08:32:53] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLPostInitializationEvent to mod worldedit
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - WorldEdit took 0.004s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 0.013s
-[08:32:53] [Client thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
-[08:32:53] [Client thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
-[08:32:53] [Client thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
-[08:32:53] [Client thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.000s
-[08:32:53] [Client thread/TRACE] [Forge/Forge]: Sending event FMLLoadCompleteEvent to mod Forge
-[08:32:53] [Client thread/DEBUG] [FML/Forge]: Forge RecipeSorter Baking:
-[08:32:53] [Client thread/DEBUG] [FML/Forge]:   16: RecipeEntry("Before", UNKNOWN, )
-[08:32:53] [Client thread/DEBUG] [FML/Forge]:   15: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
-[08:32:53] [Client thread/DEBUG] [FML/Forge]:   14: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
-[08:32:53] [Client thread/DEBUG] [FML/Forge]:   13: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
-[08:32:53] [Client thread/DEBUG] [FML/Forge]:   12: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
-[08:32:53] [Client thread/DEBUG] [FML/Forge]:   11: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
-[08:32:53] [Client thread/DEBUG] [FML/Forge]:   10: RecipeEntry("minecraft:shield_deco", SHAPELESS, net.minecraft.item.crafting.ShieldRecipes$Decoration) After: minecraft:shapeless
-[08:32:53] [Client thread/DEBUG] [FML/Forge]:   9: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
-[08:32:53] [Client thread/DEBUG] [FML/Forge]:   8: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
-[08:32:53] [Client thread/DEBUG] [FML/Forge]:   7: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
-[08:32:53] [Client thread/DEBUG] [FML/Forge]:   6: RecipeEntry("minecraft:tippedarrow", SHAPELESS, net.minecraft.item.crafting.RecipeTippedArrow) After: minecraft:shapeless
-[08:32:53] [Client thread/DEBUG] [FML/Forge]:   5: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
-[08:32:53] [Client thread/DEBUG] [FML/Forge]:   4: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
-[08:32:53] [Client thread/DEBUG] [FML/Forge]:   3: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
-[08:32:53] [Client thread/DEBUG] [FML/Forge]:   2: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
-[08:32:53] [Client thread/DEBUG] [FML/Forge]:   1: RecipeEntry("After", UNKNOWN, )
-[08:32:53] [Client thread/DEBUG] [FML/Forge]: Sorting recipes
-[08:32:53] [Client thread/TRACE] [Forge/Forge]: Sent event FMLLoadCompleteEvent to mod Forge
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.009s
-[08:32:53] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLLoadCompleteEvent to mod worldedit
-[08:32:53] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLLoadCompleteEvent to mod worldedit
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - WorldEdit took 0.000s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.010s
-[08:32:53] [Client thread/DEBUG] [FML/]: Freezing block and item id maps
-[08:32:53] [Client thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 4 mods
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Default took 0.001s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Forge Mod Loader took 0.001s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Minecraft Forge took 0.001s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:WorldEdit took 0.001s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/atlas/blocks.png took 0.000s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/font/ascii.png took 0.005s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:dynamic/lightMap_1 took 0.000s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/misc/forcefield.png took 0.002s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/font/ascii_sga.png took 0.003s
-[08:32:53] [Client thread/DEBUG] [FML/]: Bar Finished: Reloading Texture Manager took 0.010s
-[08:32:55] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: blocks took 0.587s
-[08:32:55] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: items took 0.256s
-[08:32:55] [Client thread/INFO] [FML/]: Max texture size: 8192
-[08:32:56] [Client thread/DEBUG] [FML/]: Bar Finished: Texture stitching took 0.769s
-[08:32:56] [Client thread/DEBUG] [FML/]: Bar Finished: Texture stitching took 0.055s
-[08:32:56] [Client thread/DEBUG] [FML/]: Bar Finished: Texture creation took 0.062s
-[08:32:57] [Client thread/DEBUG] [FML/]: Bar Finished: Texture mipmap and upload took 1.316s
-[08:32:58] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: baking took 1.288s
-[08:32:58] [Client thread/DEBUG] [FML/]: Bar Finished: Reloading took 5.472s
-[08:32:58] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Reloading listeners took 5.472s
-[08:32:58] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resources took 5.476s
-[08:32:58] [Client thread/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
-[08:32:58] [Client thread/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
-[08:32:58] [Client thread/DEBUG] [WorldEdit/]: Mod WorldEdit is missing a pack.mcmeta file, substituting a dummy one
-[08:32:59] [Client thread/DEBUG] [FML/]: Bar Finished: Loading took 14.554s
-[08:35:16] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerAboutToStartEvent to mod mcp
-[08:35:16] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerAboutToStartEvent to mod mcp
-[08:35:16] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.000s
-[08:35:16] [Server thread/TRACE] [FML/FML]: Sending event FMLServerAboutToStartEvent to mod FML
-[08:35:16] [Server thread/TRACE] [FML/FML]: Sent event FMLServerAboutToStartEvent to mod FML
-[08:35:16] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.000s
-[08:35:16] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerAboutToStartEvent to mod Forge
-[08:35:16] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerAboutToStartEvent to mod Forge
-[08:35:16] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.000s
-[08:35:16] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerAboutToStartEvent to mod worldedit
-[08:35:16] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerAboutToStartEvent to mod worldedit
-[08:35:16] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - WorldEdit took 0.336s
-[08:35:16] [Server thread/DEBUG] [FML/]: Bar Finished: ServerAboutToStart took 0.337s
-[08:35:16] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
-[08:35:16] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
-[08:35:16] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
-[08:35:16] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.001s
-[08:35:16] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
-[08:35:16] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
-[08:35:16] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
-[08:35:16] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
-[08:35:16] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
-[08:35:16] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.000s
-[08:35:16] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLModIdMappingEvent to mod worldedit
-[08:35:16] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLModIdMappingEvent to mod worldedit
-[08:35:16] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - WorldEdit took 0.000s
-[08:35:16] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.002s
-[08:35:16] [Server thread/INFO] [FML/]: Applying holder lookups
-[08:35:17] [Server thread/INFO] [FML/]: Holder lookups applied
-[08:35:17] [Server thread/DEBUG] [FML/]: Loading persistent fluid defaults from world
-[08:35:17] [Server thread/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
-[08:35:17] [Server thread/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
-[08:35:17] [Server thread/INFO] [FML/]: Loading dimension 0 (Blood v2) (net.minecraft.server.integrated.IntegratedServer@394fe604)
-[08:35:17] [Server thread/INFO] [FML/]: Loading dimension 1 (Blood v2) (net.minecraft.server.integrated.IntegratedServer@394fe604)
-[08:35:17] [Server thread/INFO] [FML/]: Loading dimension -1 (Blood v2) (net.minecraft.server.integrated.IntegratedServer@394fe604)
-[08:35:18] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartingEvent to mod mcp
-[08:35:18] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartingEvent to mod mcp
-[08:35:18] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.000s
-[08:35:18] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartingEvent to mod FML
-[08:35:18] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartingEvent to mod FML
-[08:35:18] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Forge Mod Loader took 0.000s
-[08:35:18] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartingEvent to mod Forge
-[08:35:18] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartingEvent to mod Forge
-[08:35:18] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Forge took 0.002s
-[08:35:18] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStartingEvent to mod worldedit
-[08:35:18] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStartingEvent to mod worldedit
-[08:35:18] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - WorldEdit took 0.000s
-[08:35:18] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarting took 0.003s
-[08:35:18] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartedEvent to mod mcp
-[08:35:18] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartedEvent to mod mcp
-[08:35:18] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.000s
-[08:35:18] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartedEvent to mod FML
-[08:35:18] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartedEvent to mod FML
-[08:35:18] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Forge Mod Loader took 0.000s
-[08:35:18] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartedEvent to mod Forge
-[08:35:18] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartedEvent to mod Forge
-[08:35:18] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
-[08:35:18] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStartedEvent to mod worldedit
-[08:35:18] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStartedEvent to mod worldedit
-[08:35:18] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - WorldEdit took 0.006s
-[08:35:18] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.006s
-[08:35:19] [Netty Local Client IO #0/TRACE] [FML/]: Handshake channel activating
-[08:35:19] [Netty Local Client IO #0/DEBUG] [FML/]: FMLHandshakeClientState: null->FMLHandshakeClientState$1:START
-[08:35:19] [Netty Local Client IO #0/DEBUG] [FML/]:   Next: HELLO
-[08:35:19] [Netty Server IO #1/TRACE] [FML/]: Handshake channel activating
-[08:35:19] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
-[08:35:19] [Netty Server IO #1/DEBUG] [FML/]:   Next: HELLO
-[08:35:19] [Netty Local Client IO #0/DEBUG] [FML/]: Server FML protocol version 2, 4 byte dimension received 0
-[08:35:19] [Netty Local Client IO #0/DEBUG] [FML/]: FMLHandshakeClientState: $ServerHello->FMLHandshakeClientState$2:HELLO
-[08:35:19] [Netty Local Client IO #0/INFO] [FML/]: Server protocol version 2
-[08:35:19] [Netty Local Client IO #0/DEBUG] [FML/]: Received override dimension 0
-[08:35:19] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
-[08:35:19] [Netty Server IO #1/INFO] [FML/]: Client protocol version 2
-[08:35:19] [Netty Server IO #1/DEBUG] [FML/]:   Next: HELLO
-[08:35:19] [Netty Local Client IO #0/DEBUG] [FML/]:   Next: WAITINGSERVERDATA
-[08:35:19] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:4 mods->FMLHandshakeServerState$2:HELLO
-[08:35:19] [Netty Server IO #1/INFO] [FML/]: Client attempting to join with 4 mods : FML@8.0.99.99,worldedit@6.1.2,Forge@12.16.0.1865,mcp@9.19
-[08:35:19] [Netty Server IO #1/DEBUG] [FML/]:   Next: WAITINGCACK
-[08:35:19] [Netty Local Client IO #0/DEBUG] [FML/]: FMLHandshakeClientState: $ModList:4 mods->FMLHandshakeClientState$3:WAITINGSERVERDATA
-[08:35:19] [Netty Local Client IO #0/DEBUG] [FML/]:   Next: PENDINGCOMPLETE
-[08:35:19] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
-[08:35:19] [Netty Local Client IO #0/DEBUG] [FML/]: FMLHandshakeClientState: $HandshakeAck:{2}->FMLHandshakeClientState$5:PENDINGCOMPLETE
-[08:35:19] [Netty Local Client IO #0/DEBUG] [FML/]:   Next: COMPLETE
-[08:35:19] [Netty Server IO #1/DEBUG] [FML/]:   Next: COMPLETE
-[08:35:19] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$4:COMPLETE
-[08:35:19] [Netty Local Client IO #0/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
-[08:35:19] [Netty Local Client IO #0/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
-[08:35:19] [Netty Local Client IO #0/DEBUG] [FML/]: FMLHandshakeClientState: $HandshakeAck:{3}->FMLHandshakeClientState$6:COMPLETE
-[08:35:19] [Netty Server IO #1/DEBUG] [FML/]:   Next: DONE
-[08:35:19] [Netty Local Client IO #0/DEBUG] [FML/]:   Next: DONE
-[08:35:19] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
-[08:35:19] [Netty Server IO #1/DEBUG] [FML/]:   Next: DONE
-[08:35:19] [Netty Local Client IO #0/INFO] [FML/]: [Netty Local Client IO #0] Client side modded connection established
-[08:35:19] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
-[08:35:19] [Client thread/DEBUG] [FML/]: Overriding dimension: using 0
-[08:35:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:35:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:35:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:35:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:36:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:36:17] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:36:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:36:58] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:37:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:38:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:38:17] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:38:17] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:38:26] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:38:44] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:38:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:39:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:39:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:39:43] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:39:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:39:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:39:56] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:39:59] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:40:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:40:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:40:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:40:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:41:00] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:41:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:41:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:41:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:41:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:41:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:42:17] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:44:08] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:44:15] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:44:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:45:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:45:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:45:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:46:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:46:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:46:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:46:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:47:47] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:47:56] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:48:15] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:48:17] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:48:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:49:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:50:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:50:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:50:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:51:02] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:51:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:51:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:51:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:53:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:54:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:54:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:54:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:54:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:54:44] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:54:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:54:59] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:55:41] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:55:42] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
-[08:55:42] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
-[08:55:42] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
-[08:55:42] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
-[08:55:42] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
-[08:55:42] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
-[08:55:42] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
-[08:55:42] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
-[08:55:42] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
-[08:55:42] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStoppingEvent to mod worldedit
-[08:55:42] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStoppingEvent to mod worldedit
-[08:55:42] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - WorldEdit took 0.000s
-[08:55:42] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 0.001s
-[08:55:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
-[08:55:42] [Server thread/INFO] [FML/]: Unloading dimension 0
-[08:55:42] [Server thread/INFO] [FML/]: Unloading dimension -1
-[08:55:42] [Server thread/INFO] [FML/]: Unloading dimension 1
-[08:55:42] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
-[08:55:42] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
-[08:55:42] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
-[08:55:42] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
-[08:55:42] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
-[08:55:42] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
-[08:55:42] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
-[08:55:42] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
-[08:55:42] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
-[08:55:42] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.000s
-[08:55:42] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLModIdMappingEvent to mod worldedit
-[08:55:42] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLModIdMappingEvent to mod worldedit
-[08:55:42] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - WorldEdit took 0.000s
-[08:55:42] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.001s
-[08:55:42] [Server thread/INFO] [FML/]: Applying holder lookups
-[08:55:42] [Server thread/INFO] [FML/]: Holder lookups applied
-[08:55:42] [Server thread/DEBUG] [FML/]: Frozen state restored.
-[08:55:42] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
-[08:55:42] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
-[08:55:42] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
-[08:55:42] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
-[08:55:42] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
-[08:55:42] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
-[08:55:42] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
-[08:55:42] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
-[08:55:42] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
-[08:55:42] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStoppedEvent to mod worldedit
-[08:55:42] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStoppedEvent to mod worldedit
-[08:55:42] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - WorldEdit took 0.000s
-[08:55:42] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.001s
+[09:38:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - SoundHandler took 0.702s
+[09:38:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - FontRenderer took 0.005s
+[09:38:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - FontRenderer took 0.003s
+[09:38:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - GrassColorReloadListener took 0.009s
+[09:38:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - FoliageColorReloadListener took 0.006s
+[09:38:10] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - GL Setup took 0.001s
+[09:38:10] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Texture Map took 0.008s
+[09:38:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - B3DLoader took 0.000s
+[09:38:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - OBJLoader took 0.000s
+[09:38:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelFluid$FluidLoader took 0.000s
+[09:38:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ItemLayerModel$Loader took 0.000s
+[09:38:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - MultiLayerModel$Loader took 0.000s
+[09:38:10] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelDynBucket$LoaderDynBucket took 0.000s
+[09:38:12] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: blocks took 1.023s
+[09:38:12] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: items took 0.237s
+[09:38:12] [Client thread/INFO] [FML/]: Max texture size: 8192
+[09:38:12] [Client thread/DEBUG] [FML/]: Bar Finished: Texture stitching - missingno took 0.001s
+[09:38:12] [Client thread/DEBUG] [FML/]: Bar Finished: Texture creation took 0.002s
+[09:38:12] [Client thread/DEBUG] [FML/]: Bar Finished: Texture mipmap and upload - missingno took 0.000s
+[09:38:12] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: baking took 0.520s
+[09:38:12] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - ModelManager took 2.002s
+[09:38:12] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Model Manager took 2.087s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - RenderItem took 0.003s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Item Renderer took 0.700s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - EntityRenderer took 0.000s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - BlockRendererDispatcher took 0.000s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resource - RenderGlobal took 0.000s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: Rendering Setup - Loading Entity Renderer took 0.152s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Finished: Rendering Setup took 2.948s
+[09:38:13] [Client thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
+[09:38:13] [Client thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.000s
+[09:38:13] [Client thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
+[09:38:13] [Client thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.000s
+[09:38:13] [Client thread/TRACE] [Forge/Forge]: Sending event FMLInitializationEvent to mod Forge
+[09:38:13] [Client thread/TRACE] [Forge/Forge]: Sent event FMLInitializationEvent to mod Forge
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.000s
+[09:38:13] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLInitializationEvent to mod worldedit
+[09:38:13] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLInitializationEvent to mod worldedit
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: Initialization - WorldEdit took 0.027s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Finished: Initialization took 0.027s
+[09:38:13] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
+[09:38:13] [Client thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
+[09:38:13] [Client thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.005s
+[09:38:13] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
+[09:38:13] [Client thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
+[09:38:13] [Client thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.000s
+[09:38:13] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod Forge
+[09:38:13] [Client thread/TRACE] [Forge/Forge]: Sending event IMCEvent to mod Forge
+[09:38:13] [Client thread/TRACE] [Forge/Forge]: Sent event IMCEvent to mod Forge
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.000s
+[09:38:13] [Client thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod worldedit
+[09:38:13] [Client thread/TRACE] [worldedit/worldedit]: Sending event IMCEvent to mod worldedit
+[09:38:13] [Client thread/TRACE] [worldedit/worldedit]: Sent event IMCEvent to mod worldedit
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - WorldEdit took 0.000s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.006s
+[09:38:13] [Client thread/INFO] [FML/]: Injecting itemstacks
+[09:38:13] [Client thread/INFO] [FML/]: Itemstack injection complete
+[09:38:13] [Client thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
+[09:38:13] [Client thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.000s
+[09:38:13] [Client thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
+[09:38:13] [Client thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.000s
+[09:38:13] [Client thread/TRACE] [Forge/Forge]: Sending event FMLPostInitializationEvent to mod Forge
+[09:38:13] [Client thread/TRACE] [Forge/Forge]: Sent event FMLPostInitializationEvent to mod Forge
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.010s
+[09:38:13] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLPostInitializationEvent to mod worldedit
+[09:38:13] [Client thread/INFO] [worldedit/worldedit]: WorldEdit for Forge (version 6.1.2) is loaded
+[09:38:13] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLPostInitializationEvent to mod worldedit
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - WorldEdit took 0.004s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 0.014s
+[09:38:13] [Client thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
+[09:38:13] [Client thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
+[09:38:13] [Client thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
+[09:38:13] [Client thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.000s
+[09:38:13] [Client thread/TRACE] [Forge/Forge]: Sending event FMLLoadCompleteEvent to mod Forge
+[09:38:13] [Client thread/DEBUG] [FML/Forge]: Forge RecipeSorter Baking:
+[09:38:13] [Client thread/DEBUG] [FML/Forge]:   16: RecipeEntry("Before", UNKNOWN, )
+[09:38:13] [Client thread/DEBUG] [FML/Forge]:   15: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[09:38:13] [Client thread/DEBUG] [FML/Forge]:   14: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[09:38:13] [Client thread/DEBUG] [FML/Forge]:   13: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[09:38:13] [Client thread/DEBUG] [FML/Forge]:   12: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[09:38:13] [Client thread/DEBUG] [FML/Forge]:   11: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
+[09:38:13] [Client thread/DEBUG] [FML/Forge]:   10: RecipeEntry("minecraft:shield_deco", SHAPELESS, net.minecraft.item.crafting.ShieldRecipes$Decoration) After: minecraft:shapeless
+[09:38:13] [Client thread/DEBUG] [FML/Forge]:   9: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[09:38:13] [Client thread/DEBUG] [FML/Forge]:   8: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[09:38:13] [Client thread/DEBUG] [FML/Forge]:   7: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
+[09:38:13] [Client thread/DEBUG] [FML/Forge]:   6: RecipeEntry("minecraft:tippedarrow", SHAPELESS, net.minecraft.item.crafting.RecipeTippedArrow) After: minecraft:shapeless
+[09:38:13] [Client thread/DEBUG] [FML/Forge]:   5: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[09:38:13] [Client thread/DEBUG] [FML/Forge]:   4: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[09:38:13] [Client thread/DEBUG] [FML/Forge]:   3: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
+[09:38:13] [Client thread/DEBUG] [FML/Forge]:   2: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[09:38:13] [Client thread/DEBUG] [FML/Forge]:   1: RecipeEntry("After", UNKNOWN, )
+[09:38:13] [Client thread/DEBUG] [FML/Forge]: Sorting recipes
+[09:38:13] [Client thread/TRACE] [Forge/Forge]: Sent event FMLLoadCompleteEvent to mod Forge
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.009s
+[09:38:13] [Client thread/TRACE] [worldedit/worldedit]: Sending event FMLLoadCompleteEvent to mod worldedit
+[09:38:13] [Client thread/TRACE] [worldedit/worldedit]: Sent event FMLLoadCompleteEvent to mod worldedit
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: LoadComplete - WorldEdit took 0.000s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.009s
+[09:38:13] [Client thread/DEBUG] [FML/]: Freezing block and item id maps
+[09:38:13] [Client thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 4 mods
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Default took 0.001s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Forge Mod Loader took 0.002s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:Minecraft Forge took 0.001s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - FMLFileResourcePack:WorldEdit took 0.001s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/atlas/blocks.png took 0.000s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/font/ascii.png took 0.005s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:dynamic/lightMap_1 took 0.000s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/misc/forcefield.png took 0.002s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Step: Reloading Texture Manager - minecraft:textures/font/ascii_sga.png took 0.003s
+[09:38:13] [Client thread/DEBUG] [FML/]: Bar Finished: Reloading Texture Manager took 0.009s
+[09:38:15] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: blocks took 0.516s
+[09:38:15] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: items took 0.219s
+[09:38:15] [Client thread/INFO] [FML/]: Max texture size: 8192
+[09:38:15] [Client thread/DEBUG] [FML/]: Bar Finished: Texture stitching took 0.321s
+[09:38:15] [Client thread/DEBUG] [FML/]: Bar Finished: Texture stitching took 0.022s
+[09:38:15] [Client thread/DEBUG] [FML/]: Bar Finished: Texture creation took 0.029s
+[09:38:16] [Client thread/DEBUG] [FML/]: Bar Finished: Texture mipmap and upload took 0.491s
+[09:38:16] [Client thread/DEBUG] [FML/]: Bar Finished: ModelLoader: baking took 0.384s
+[09:38:16] [Client thread/DEBUG] [FML/]: Bar Finished: Reloading took 2.868s
+[09:38:16] [Client thread/DEBUG] [FML/]: Bar Step: Loading Resources - Reloading listeners took 2.869s
+[09:38:16] [Client thread/DEBUG] [FML/]: Bar Finished: Loading Resources took 2.875s
+[09:38:16] [Client thread/DEBUG] [Forge Mod Loader/]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[09:38:16] [Client thread/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[09:38:16] [Client thread/DEBUG] [WorldEdit/]: Mod WorldEdit is missing a pack.mcmeta file, substituting a dummy one
+[09:38:16] [Client thread/DEBUG] [FML/]: Bar Finished: Loading took 9.037s
+[09:38:25] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerAboutToStartEvent to mod mcp
+[09:38:25] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerAboutToStartEvent to mod mcp
+[09:38:25] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.000s
+[09:38:25] [Server thread/TRACE] [FML/FML]: Sending event FMLServerAboutToStartEvent to mod FML
+[09:38:25] [Server thread/TRACE] [FML/FML]: Sent event FMLServerAboutToStartEvent to mod FML
+[09:38:25] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.000s
+[09:38:25] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerAboutToStartEvent to mod Forge
+[09:38:25] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerAboutToStartEvent to mod Forge
+[09:38:25] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.000s
+[09:38:25] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerAboutToStartEvent to mod worldedit
+[09:38:26] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerAboutToStartEvent to mod worldedit
+[09:38:26] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - WorldEdit took 0.314s
+[09:38:26] [Server thread/DEBUG] [FML/]: Bar Finished: ServerAboutToStart took 0.315s
+[09:38:26] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[09:38:26] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[09:38:26] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[09:38:26] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.001s
+[09:38:26] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[09:38:26] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[09:38:26] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[09:38:26] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[09:38:26] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[09:38:26] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.000s
+[09:38:26] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLModIdMappingEvent to mod worldedit
+[09:38:26] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLModIdMappingEvent to mod worldedit
+[09:38:26] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - WorldEdit took 0.000s
+[09:38:26] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.002s
+[09:38:26] [Server thread/INFO] [FML/]: Applying holder lookups
+[09:38:26] [Server thread/INFO] [FML/]: Holder lookups applied
+[09:38:26] [Server thread/DEBUG] [FML/]: Loading persistent fluid defaults from world
+[09:38:26] [Server thread/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
+[09:38:26] [Server thread/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
+[09:38:26] [Server thread/INFO] [FML/]: Loading dimension 0 (Blood v2) (net.minecraft.server.integrated.IntegratedServer@667e7b98)
+[09:38:26] [Server thread/INFO] [FML/]: Loading dimension 1 (Blood v2) (net.minecraft.server.integrated.IntegratedServer@667e7b98)
+[09:38:26] [Server thread/INFO] [FML/]: Loading dimension -1 (Blood v2) (net.minecraft.server.integrated.IntegratedServer@667e7b98)
+[09:38:27] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartingEvent to mod mcp
+[09:38:27] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartingEvent to mod mcp
+[09:38:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.000s
+[09:38:27] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartingEvent to mod FML
+[09:38:27] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartingEvent to mod FML
+[09:38:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Forge Mod Loader took 0.000s
+[09:38:27] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartingEvent to mod Forge
+[09:38:27] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartingEvent to mod Forge
+[09:38:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Forge took 0.003s
+[09:38:27] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStartingEvent to mod worldedit
+[09:38:27] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStartingEvent to mod worldedit
+[09:38:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - WorldEdit took 0.000s
+[09:38:27] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarting took 0.004s
+[09:38:27] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartedEvent to mod mcp
+[09:38:27] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartedEvent to mod mcp
+[09:38:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.000s
+[09:38:27] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartedEvent to mod FML
+[09:38:27] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartedEvent to mod FML
+[09:38:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Forge Mod Loader took 0.000s
+[09:38:27] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartedEvent to mod Forge
+[09:38:27] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartedEvent to mod Forge
+[09:38:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
+[09:38:27] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStartedEvent to mod worldedit
+[09:38:27] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStartedEvent to mod worldedit
+[09:38:27] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - WorldEdit took 0.006s
+[09:38:27] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.006s
+[09:38:28] [Netty Local Client IO #0/TRACE] [FML/]: Handshake channel activating
+[09:38:28] [Netty Local Client IO #0/DEBUG] [FML/]: FMLHandshakeClientState: null->FMLHandshakeClientState$1:START
+[09:38:28] [Netty Local Client IO #0/DEBUG] [FML/]:   Next: HELLO
+[09:38:28] [Netty Server IO #1/TRACE] [FML/]: Handshake channel activating
+[09:38:28] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[09:38:28] [Netty Server IO #1/DEBUG] [FML/]:   Next: HELLO
+[09:38:28] [Netty Local Client IO #0/DEBUG] [FML/]: Server FML protocol version 2, 4 byte dimension received 0
+[09:38:28] [Netty Local Client IO #0/DEBUG] [FML/]: FMLHandshakeClientState: $ServerHello->FMLHandshakeClientState$2:HELLO
+[09:38:28] [Netty Local Client IO #0/INFO] [FML/]: Server protocol version 2
+[09:38:28] [Netty Local Client IO #0/DEBUG] [FML/]: Received override dimension 0
+[09:38:28] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[09:38:28] [Netty Server IO #1/INFO] [FML/]: Client protocol version 2
+[09:38:28] [Netty Server IO #1/DEBUG] [FML/]:   Next: HELLO
+[09:38:28] [Netty Local Client IO #0/DEBUG] [FML/]:   Next: WAITINGSERVERDATA
+[09:38:28] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:4 mods->FMLHandshakeServerState$2:HELLO
+[09:38:28] [Netty Server IO #1/INFO] [FML/]: Client attempting to join with 4 mods : FML@8.0.99.99,worldedit@6.1.2,Forge@12.16.0.1865,mcp@9.19
+[09:38:28] [Netty Server IO #1/DEBUG] [FML/]:   Next: WAITINGCACK
+[09:38:28] [Netty Local Client IO #0/DEBUG] [FML/]: FMLHandshakeClientState: $ModList:4 mods->FMLHandshakeClientState$3:WAITINGSERVERDATA
+[09:38:28] [Netty Local Client IO #0/DEBUG] [FML/]:   Next: PENDINGCOMPLETE
+[09:38:28] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[09:38:28] [Netty Local Client IO #0/DEBUG] [FML/]: FMLHandshakeClientState: $HandshakeAck:{2}->FMLHandshakeClientState$5:PENDINGCOMPLETE
+[09:38:28] [Netty Local Client IO #0/DEBUG] [FML/]:   Next: COMPLETE
+[09:38:28] [Netty Server IO #1/DEBUG] [FML/]:   Next: COMPLETE
+[09:38:28] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$4:COMPLETE
+[09:38:28] [Netty Local Client IO #0/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
+[09:38:28] [Netty Local Client IO #0/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
+[09:38:28] [Netty Server IO #1/DEBUG] [FML/]:   Next: DONE
+[09:38:28] [Netty Local Client IO #0/DEBUG] [FML/]: FMLHandshakeClientState: $HandshakeAck:{3}->FMLHandshakeClientState$6:COMPLETE
+[09:38:28] [Netty Local Client IO #0/DEBUG] [FML/]:   Next: DONE
+[09:38:28] [Netty Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[09:38:28] [Netty Server IO #1/DEBUG] [FML/]:   Next: DONE
+[09:38:28] [Netty Local Client IO #0/INFO] [FML/]: [Netty Local Client IO #0] Client side modded connection established
+[09:38:28] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[09:38:28] [Client thread/DEBUG] [FML/]: Overriding dimension: using 0
+[09:38:28] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
+[09:39:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
+[09:39:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
+[09:40:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
+[09:41:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
+[09:42:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
+[09:42:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
+[09:43:42] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
+[09:44:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
+[09:45:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
+[09:45:57] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
+[09:46:29] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
+[09:46:30] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
+[09:46:30] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
+[09:46:30] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
+[09:46:30] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
+[09:46:30] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
+[09:46:30] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[09:46:30] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
+[09:46:30] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
+[09:46:30] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[09:46:30] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStoppingEvent to mod worldedit
+[09:46:30] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStoppingEvent to mod worldedit
+[09:46:30] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - WorldEdit took 0.000s
+[09:46:30] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 0.001s
+[09:46:30] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save Blood v2
+[09:46:31] [Server thread/INFO] [FML/]: Unloading dimension 0
+[09:46:31] [Server thread/INFO] [FML/]: Unloading dimension -1
+[09:46:31] [Server thread/INFO] [FML/]: Unloading dimension 1
+[09:46:31] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
+[09:46:31] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[09:46:31] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[09:46:31] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
+[09:46:31] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[09:46:31] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[09:46:31] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[09:46:31] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[09:46:31] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[09:46:31] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.000s
+[09:46:31] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLModIdMappingEvent to mod worldedit
+[09:46:31] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLModIdMappingEvent to mod worldedit
+[09:46:31] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - WorldEdit took 0.000s
+[09:46:31] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.001s
+[09:46:31] [Server thread/INFO] [FML/]: Applying holder lookups
+[09:46:31] [Server thread/INFO] [FML/]: Holder lookups applied
+[09:46:31] [Server thread/DEBUG] [FML/]: Frozen state restored.
+[09:46:31] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[09:46:31] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[09:46:31] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[09:46:31] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[09:46:31] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[09:46:31] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[09:46:31] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
+[09:46:31] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
+[09:46:31] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[09:46:31] [Server thread/TRACE] [worldedit/worldedit]: Sending event FMLServerStoppedEvent to mod worldedit
+[09:46:31] [Server thread/TRACE] [worldedit/worldedit]: Sent event FMLServerStoppedEvent to mod worldedit
+[09:46:31] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - WorldEdit took 0.000s
+[09:46:31] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.001s
