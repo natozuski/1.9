@@ -1,3 +1,4 @@
+![Project Banner](./appleico.PNG)
 # How to play Minecraft
 
 ## You need:
